@@ -21,9 +21,9 @@ export default function LanguageSelector() {
                 {language === "en" && <img src={flagEngland} />}
             </div>
             <select className={style.selector} onChange={(e) => handleLanguage(e)}>
-                <option hidden>{t("home.homeData.language")}</option>
-                {language === "es" && <option value="en">{t("home.homeData.languageEn")}</option>}
-                {language === "en" && <option value="es">{t("home.homeData.languageEs")}</option>}
+                <option hidden>{t("components.languageSelector.language")}</option>
+                {language === "es" && <option value="en">{t("components.languageSelector.languageEn")}</option>}
+                {language === "en" && <option value="es">{t("components.languageSelector.languageEs")}</option>}
             </select>
         </div>
     );

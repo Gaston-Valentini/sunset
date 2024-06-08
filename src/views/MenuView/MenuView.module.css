@@ -1,0 +1,12 @@
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.language {
+    align-self: flex-end;
+    height: 40px;
+}

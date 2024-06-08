@@ -3,7 +3,7 @@ import { useTranslation } from "react-i18next";
 import Map from "../../components/Map/Map";
 
 export default function HomeMap() {
-    const [t, i18n] = useTranslation("global");
+    const { t } = useTranslation("global");
 
     return (
         <section className={style.container}>
@@ -14,7 +14,7 @@ export default function HomeMap() {
                     target="_blank"
                     className={style.link}
                 >
-                    {t("home.homeMap.link")}
+                    {t("homeView.homeMap.link")}
                 </a>
             </div>
         </section>

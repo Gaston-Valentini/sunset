@@ -1,10 +1,10 @@
 .container {
-    height: 200px;
+    height: 25vh;
     box-shadow: 0 0 10px black;
 }
 
 @media (min-width: 768px) {
     .container {
-        height: 400px;
+        height: 300px;
     }
 }
