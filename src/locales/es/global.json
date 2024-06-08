@@ -1,0 +1,14 @@
+{
+    "home": {
+        "homeData": {
+            "language": "Idioma",
+            "languageEs": "Español",
+            "languageEn": "English",
+            "soon": "¡Nuestro sitio web estará disponible muy pronto! Mientras tanto, te invitamos a consultar nuestro menú aquí:",
+            "link": "VER CARTA"
+        },
+        "homeMap": {
+            "link": "Ver ruta"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+.container {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    box-shadow: 0 0 10px black;
+}
+
+.big {
+    height: 100%;
+    display: flex;
+    transition: 0.3s;
+}
+
+.big div {
+    width: 100%;
+    height: 100%;
+}
+
+.big div img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.navbar {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: calc(100% - 40px);
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar svg {
+    font-size: 30px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
+.navbar svg:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.5);
+    box-shadow: var(--sectionShadow);
+}
+
+.navbar svg path {
+    color: white;
+}
+
+.dots {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.dotsDot {
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.dotsDot:hover {
+    cursor: pointer;
+}
+
+.dotsDotActive {
+    border: 2px solid rgb(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1024px) {
+    .navbar {
+        width: calc(100% - 20px);
+        padding: 0 10px;
+    }
+}

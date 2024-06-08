@@ -1,0 +1,37 @@
+.container {
+    position: relative;
+    height: 250px;
+    min-height: 250px;
+    box-shadow: 0 0 10px black;
+}
+
+.link {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+
+.link a {
+    width: max-content;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: 700;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    transition: 0.3s;
+}
+
+.link a:hover {
+    color: white;
+    background-color: black;
+}
+
+@media (min-width: 768px) {
+    .container {
+        height: 400px;
+    }
+}
