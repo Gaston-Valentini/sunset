@@ -1,0 +1,33 @@
+.container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.flag {
+    height: calc(100% - 2px);
+    border: 1px solid black;
+}
+
+.flag img {
+    height: 100%;
+}
+
+.selector {
+    height: 100%;
+    font-weight: 700;
+    border: 2px solid black;
+    outline: none;
+    transition: 0.3s;
+}
+
+.selector:hover {
+    cursor: pointer;
+    color: white;
+    background-color: black;
+}
+
+.selector option {
+    font-weight: 700;
+}
