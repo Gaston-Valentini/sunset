@@ -1,5 +1,6 @@
 .container {
     height: 200px;
+    box-shadow: 0 0 10px black;
 }
 
 @media (min-width: 768px) {

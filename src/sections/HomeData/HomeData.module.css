@@ -13,32 +13,7 @@
 }
 
 .language {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.languageFlag {
-    height: 38px;
-    border: 1px solid black;
-}
-
-.languageFlag img {
-    height: 100%;
-}
-
-.languageSelector {
     height: 40px;
-    font-weight: 700;
-    border: 2px solid black;
-    outline: none;
-    transition: 0.3s;
-}
-
-.languageSelector:hover {
-    cursor: pointer;
-    color: white;
-    background-color: black;
 }
 
 .soon {

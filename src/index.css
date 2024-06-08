@@ -1,4 +1,5 @@
 :root {
+    --boxShadow: 0 0 7px #7f7f7f;
     --primary: "Montserrat", sans-serif;
     --secondary: "Abril Fatface", serif;
 }
