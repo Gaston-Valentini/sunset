@@ -1,0 +1,72 @@
+.container {
+    max-width: 700px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: var(--grey);
+    border-radius: 5px;
+    box-shadow: 0 0 10px var(--grey);
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.dataName {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.dataNameText {
+    font-weight: 800;
+}
+
+.dataInfo {
+    max-height: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: 0.5s;
+}
+
+.dataInfoOpen {
+    max-height: 1000px;
+}
+
+.dataInfoImage {
+    height: 100%;
+    width: 100%;
+}
+
+.dataInfoImage img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.more {
+    align-self: flex-end;
+    height: 26px;
+}
+
+.more svg {
+    height: 20px;
+    width: 20px;
+    padding: 3px;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.more svg:hover {
+    cursor: pointer;
+    color: black;
+    background-color: white;
+    outline: 1px solid black;
+}

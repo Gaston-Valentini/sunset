@@ -13,7 +13,7 @@ export default function HomeData() {
                 <LanguageSelector />
             </div>
             <Title />
-            <p className={style.soon}>{t("home.homeData.soon")}</p>
+            <p className={style.soon}>{t("homeView.homeData.soon")}</p>
             <Link to="/menu" className={style.link}>
                 {t("homeView.homeData.link")}
             </Link>

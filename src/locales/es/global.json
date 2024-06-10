@@ -14,84 +14,252 @@
                 "title": "ENTRANTES",
                 "plates": {
                     "plateOne": {
-                        "title": "Plato 1",
+                        "title": "Huevos estrellados con jamón hibérico",
                         "description": "Descripción 1"
                     },
                     "plateTwo": {
-                        "title": "Plato 2",
+                        "title": "Patatas bravas con ali oli",
                         "description": "Descripción 2"
                     },
                     "plateThree": {
-                        "title": "Plato 3",
+                        "title": "Alitas de pollo",
                         "description": "Descripción 3"
+                    },
+                    "plateFour": {
+                        "title": "Tabla de jamón y queso",
+                        "description": "Descripción 4"
+                    },
+                    "plateFive": {
+                        "title": "Croquetas de jamón hibérico",
+                        "description": "Descripción 5"
+                    },
+                    "plateSix": {
+                        "title": "Chopitos fritos",
+                        "description": "Descripción 6"
+                    },
+                    "plateSeven": {
+                        "title": "Calamares de la bahía fritos",
+                        "description": "Descripción 7"
+                    },
+                    "plateEight": {
+                        "title": "Gmabas al ajillo",
+                        "description": "Descripción 8"
+                    },
+                    "plateNine": {
+                        "title": "Gambón a la plancha (6 uds)",
+                        "description": "Descripción 9"
+                    },
+                    "plateTen": {
+                        "title": "Nachos supremos con pico de gallo y jalapeños (Guabamole 1€ adicional, sala chedar 1€ adicional)",
+                        "description": "Descripción 10"
+                    },
+                    "plateEleven": {
+                        "title": "Tacos mexicanos con carne mechada (2 uds)",
+                        "description": "Descripción 11"
+                    },
+                    "plateTwelve": {
+                        "title": "Tiraditos crujientres de berenjena acompañado de miel de caña",
+                        "description": "Descripción 12"
+                    },
+                    "plateThirteen": {
+                        "title": "Squitos imperiales de berenjena sofre falso risotto y salsa Teriyaki",
+                        "description": "Descripción 13"
+                    },
+                    "plateFourteen": {
+                        "title": "tempura de verduras (Calabaza, zanahuoria, berenjena, calabación pimiento rojo y pimiento verde)",
+                        "description": "Descripción 14"
+                    },
+                    "plateFifteen": {
+                        "title": "Chipirones con emulsión de tinta y ali oli",
+                        "description": "Descripción 15"
+                    },
+                    "plateSixteen": {
+                        "title": "Langostinos en tempura a la lima, cítricos y salsa de soja (Guacamole 1€ adicional)",
+                        "description": "Descripción 16"
+                    },
+                    "plateSeventeen": {
+                        "title": "Carpacco de tomate del huerto con arbequina, pesto y sal carbón",
+                        "description": "Descripción 17"
+                    },
+                    "plateEighteen": {
+                        "title": "Carpacco de atún con dados de mango, aguacate, tomate y cebolla",
+                        "description": "Descripción 18"
                     }
                 }
             },
             "sectionTwo": {
                 "title": "PRIMEROS",
                 "plates": {
+                    "plateOne": {
+                        "title": "Ensalada Cesar de la casa",
+                        "description": "Descripción 1"
+                    },
+                    "plateTwo": {
+                        "title": "Ensalada SUNSET",
+                        "description": "Langostinos, perla de mozarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga."
+                    },
+                    "plateThree": {
+                        "title": "Ensalada mixta",
+                        "description": "Descripción 3"
+                    },
                     "plateFour": {
-                        "title": "Plato 4",
+                        "title": "Pasta carbonara",
                         "description": "Descripción 4"
                     },
                     "plateFive": {
-                        "title": "Plato 5",
+                        "title": "Pasta bolognesa",
                         "description": "Descripción 5"
                     },
                     "plateSix": {
-                        "title": "Plato 6",
-                        "description": "Descripción 6"
+                        "title": "Pasta Frutti di mare",
+                        "description": "Gambas, mejillones y almejas"
                     }
                 }
             },
             "sectionThree": {
                 "title": "SEGUNDOS",
                 "plates": {
+                    "plateOne": {
+                        "title": "Steak Tartare de vaca en estado puro (180gr)",
+                        "description": "Descripción 1"
+                    },
+                    "plateTwo": {
+                        "title": "Solomillo de ternera (200gr)",
+                        "description": "Descripción 2"
+                    },
+                    "plateThree": {
+                        "title": "Entrecot de ternera (200gr)",
+                        "description": "Descripción 3"
+                    },
+                    "plateFour": {
+                        "title": "Escalopines de cerdo con salsa de cabrales",
+                        "description": "Descripción 4"
+                    },
+                    "plateFive": {
+                        "title": "Milanesa de pollo",
+                        "description": "Descripción 5"
+                    },
+                    "plateSix": {
+                        "title": "1/2 pollo asado en su jugo",
+                        "description": "Descripción 6"
+                    },
                     "plateSeven": {
-                        "title": "Plato 7",
+                        "title": "Zamburiñas a la brasa",
                         "description": "Descripción 7"
                     },
                     "plateEight": {
-                        "title": "Plato 8",
+                        "title": "Tartar de atún de almadraba",
                         "description": "Descripción 8"
                     },
                     "plateNine": {
-                        "title": "Plato 9",
+                        "title": "Tartar de salmón con mango o guacamole",
                         "description": "Descripción 9"
+                    },
+                    "plateTen": {
+                        "title": "Salmón al papillote",
+                        "description": "Descripción 10"
+                    },
+                    "plateEleven": {
+                        "title": "Tataki de atún con fusión tropical",
+                        "description": "Descripción 11"
+                    },
+                    "plateTwelve": {
+                        "title": "Pulpo a la brasa ahumado al romero",
+                        "description": "Descripción 12"
+                    },
+                    "plateThirteen": {
+                        "title": "Rollos de lubina rellenos de espinacas y langostinos sobre compota de boniato",
+                        "description": "Descripción 13"
+                    },
+                    "plateFourteen": {
+                        "title": "Lubina al Megalodón con emulsión de  cítricos",
+                        "description": "Descripción 14"
+                    },
+                    "plateFifteen": {
+                        "title": "Lubina a la espalda",
+                        "description": "Descripción 15"
+                    },
+                    "plateSixteen": {
+                        "title": "Merluza en salsa marinera",
+                        "description": "Descripción 16"
+                    },
+                    "plateSeventeen": {
+                        "title": "Merluza en salsa de inojo",
+                        "description": "Descripción 17"
+                    },
+                    "plateEighteen": {
+                        "title": "Merluza a la romana",
+                        "description": "Descripción 18"
+                    },
+                    "plateNineteen": {
+                        "title": "Bacalao a baja temperatura con cebolla caramelizada",
+                        "description": "Descripción 19"
+                    },
+                    "plateTwenty": {
+                        "title": "Bacalao al horno con pisto",
+                        "description": "Descripción 20"
+                    },
+                    "plateTwentyOne": {
+                        "title": "Fish and chips",
+                        "description": "Descripción 21"
                     }
                 }
             },
             "sectionFour": {
                 "title": "ARROCES",
                 "plates": {
-                    "plateTen": {
-                        "title": "Plato 10",
-                        "description": "Descripción 10"
+                    "plateOne": {
+                        "title": "Paella de marisco",
+                        "description": "Descripción 1"
                     },
-                    "plateEleven": {
-                        "title": "Plato 11",
-                        "description": "Descripción 11"
+                    "plateTwo": {
+                        "title": "Paella de verduras",
+                        "description": "Descripción 2"
                     },
-                    "plateTwelve": {
-                        "title": "Plato 12",
-                        "description": "Descripción 12"
+                    "plateThree": {
+                        "title": "Paella mixta",
+                        "description": "Descripción 3"
+                    },
+                    "plateFour": {
+                        "title": "Arroz señoret",
+                        "description": "Descripción 4"
+                    },
+                    "plateFive": {
+                        "title": "Arroz negro",
+                        "description": "Descripción 5"
+                    },
+                    "plateSix": {
+                        "title": "Fideuá",
+                        "description": "Descripción 6"
+                    },
+                    "plateSeven": {
+                        "title": "Arroz meloso de bogavante (por encargo)",
+                        "description": "Descripción 7"
                     }
                 }
             },
             "sectionFive": {
                 "title": "POSTRES",
                 "plates": {
-                    "plateThirteen": {
-                        "title": "Plato 13",
-                        "description": "Descripción 13"
+                    "plateOne": {
+                        "title": "Tarta de zanahoria",
+                        "description": "Descripción 1"
                     },
-                    "plateFourteen": {
-                        "title": "Plato 14",
-                        "description": "Descripción 14"
+                    "plateTwo": {
+                        "title": "Copa de helado SUNSET",
+                        "description": "Descripción 2"
                     },
-                    "plateFifteen": {
-                        "title": "Plato 15",
-                        "description": "Descripción 15"
+                    "plateThree": {
+                        "title": "Tarta de chocolate",
+                        "description": "Descripción 3"
+                    },
+                    "plateFour": {
+                        "title": "Tarta de manzana",
+                        "description": "Descripción 4"
+                    },
+                    "plateFive": {
+                        "title": "Fruta de temporada",
+                        "description": "Descripción 5"
                     }
                 }
             }
@@ -99,7 +267,7 @@
     },
     "components": {
         "languageSelector": {
-            "language": "Idioma",
+            "language": "Language",
             "languageEs": "Español",
             "languageEn": "English"
         }
