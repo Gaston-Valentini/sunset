@@ -1,26 +1,25 @@
 import style from "./HomeHeader.module.css";
 import Slider from "../../components/Slider/Slider";
+import image1 from "../../assets/header/header-1.jpg";
+import image2 from "../../assets/header/header-2.jpg";
+import image3 from "../../assets/header/header-3.jpg";
+import image4 from "../../assets/header/header-4.jpg";
 
 export default function HomeHeader() {
     return (
         <section className={style.container}>
             <Slider>
                 <div>
-                    <img
-                        src={
-                            "https://phantom-marca.unidadeditorial.es/4b4d91362d32d08715ed5b4d7c536946/resize/828/f/jpg/assets/multimedia/imagenes/2022/02/17/16451199171920.jpg"
-                        }
-                    />
+                    <img src={image1} />
                 </div>
                 <div>
-                    <img
-                        src={
-                            "https://s3.abcstatics.com/abc/www/multimedia/bienestar/2023/07/10/atardecer-verano-1-R6funi5jYXxtpImvVtH33OO-1200x840@abc.jpg"
-                        }
-                    />
+                    <img src={image2} />
                 </div>
                 <div>
-                    <img src={"https://estaticos-cdn.prensaiberica.es/clip/3531bf5c-c273-484c-8852-63a84618045e_source-aspect-ratio_default_0.jpg"} />
+                    <img src={image3} />
+                </div>
+                <div>
+                    <img src={image4} />
                 </div>
             </Slider>
         </section>

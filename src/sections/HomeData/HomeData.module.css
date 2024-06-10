@@ -27,3 +27,40 @@
     color: white;
     background-color: black;
 }
+
+.social {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.social {
+    padding: 10px;
+    text-decoration: none;
+    background-color: var(--grey);
+    border-radius: 5px;
+    box-shadow: 0 0 10px var(--grey);
+    transition: 0.3s;
+}
+
+.social:hover {
+    background-color: black;
+}
+
+.social:hover .socialText {
+    color: white;
+}
+
+.socialText {
+    color: black;
+}
+
+.socialIcon {
+    height: 30px;
+    width: 30px;
+}
+
+.socialIcon img {
+    height: 100%;
+    width: 100%;
+}

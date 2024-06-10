@@ -2,7 +2,8 @@
     "homeView": {
         "homeData": {
             "soon": "¡Nuestro sitio web estará disponible muy pronto! Mientras tanto, te invitamos a consultar nuestro menú aquí:",
-            "link": "VER CARTA"
+            "link": "VER CARTA",
+            "social": "Síguenos en Instagram"
         },
         "homeMap": {
             "link": "VER RUTA"
@@ -14,7 +15,7 @@
                 "title": "ENTRANTES",
                 "plates": {
                     "plateOne": {
-                        "title": "Huevos estrellados con jamón hibérico",
+                        "title": "Huevos estrellados con jamón ibérico",
                         "description": "Descripción 1"
                     },
                     "plateTwo": {
@@ -30,7 +31,7 @@
                         "description": "Descripción 4"
                     },
                     "plateFive": {
-                        "title": "Croquetas de jamón hibérico",
+                        "title": "Croquetas de jamón ibérico",
                         "description": "Descripción 5"
                     },
                     "plateSix": {
@@ -42,7 +43,7 @@
                         "description": "Descripción 7"
                     },
                     "plateEight": {
-                        "title": "Gmabas al ajillo",
+                        "title": "Gambas al ajillo",
                         "description": "Descripción 8"
                     },
                     "plateNine": {
@@ -50,7 +51,7 @@
                         "description": "Descripción 9"
                     },
                     "plateTen": {
-                        "title": "Nachos supremos con pico de gallo y jalapeños (Guabamole 1€ adicional, sala chedar 1€ adicional)",
+                        "title": "Nachos supremos con pico de gallo y jalapeños (Guacamole 1€ adicional, salsa chedar 1€ adicional)",
                         "description": "Descripción 10"
                     },
                     "plateEleven": {
@@ -58,15 +59,15 @@
                         "description": "Descripción 11"
                     },
                     "plateTwelve": {
-                        "title": "Tiraditos crujientres de berenjena acompañado de miel de caña",
+                        "title": "Tiraditos crujientes de berenjena acompañado de miel de caña",
                         "description": "Descripción 12"
                     },
                     "plateThirteen": {
-                        "title": "Squitos imperiales de berenjena sofre falso risotto y salsa Teriyaki",
+                        "title": "Saquitos imperiales de berenjena sobre falso risotto y salsa Teriyaki",
                         "description": "Descripción 13"
                     },
                     "plateFourteen": {
-                        "title": "tempura de verduras (Calabaza, zanahuoria, berenjena, calabación pimiento rojo y pimiento verde)",
+                        "title": "tempura de verduras (Calabaza, zanahoria, berenjena, calabacín pimiento rojo y pimiento verde)",
                         "description": "Descripción 14"
                     },
                     "plateFifteen": {
@@ -78,11 +79,11 @@
                         "description": "Descripción 16"
                     },
                     "plateSeventeen": {
-                        "title": "Carpacco de tomate del huerto con arbequina, pesto y sal carbón",
+                        "title": "Carpaccio de tomate del huerto con arbequina, pesto y sal carbón",
                         "description": "Descripción 17"
                     },
                     "plateEighteen": {
-                        "title": "Carpacco de atún con dados de mango, aguacate, tomate y cebolla",
+                        "title": "Carpaccio de atún con dados de mango, aguacate, tomate y cebolla",
                         "description": "Descripción 18"
                     }
                 }
@@ -184,7 +185,7 @@
                         "description": "Descripción 16"
                     },
                     "plateSeventeen": {
-                        "title": "Merluza en salsa de inojo",
+                        "title": "Merluza en salsa de hinojo",
                         "description": "Descripción 17"
                     },
                     "plateEighteen": {
