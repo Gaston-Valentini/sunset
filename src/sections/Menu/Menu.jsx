@@ -12,7 +12,10 @@ export default function Menu({ menuSection }) {
                 <div className={style.headingIcon}>
                     <img src={menu[menuSection].icon} />
                 </div>
-                <p className={style.headingText}>{t(menu[menuSection].title)}</p>
+                <div className={style.headingText}>
+                    <p className={style.headingTextTitle}>{t(menu[menuSection].title)}</p>
+                    {menuSection === 3 && <p>{t("menuView.menu.rices")}</p>}
+                </div>
                 <div className={style.headingIcon}>
                     <img src={menu[menuSection].icon} />
                 </div>

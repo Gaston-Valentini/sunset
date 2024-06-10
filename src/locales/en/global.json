@@ -2,24 +2,24 @@
     "homeView": {
         "homeData": {
             "soon": "Our website will be available very soon! In the meantime, we invite you to check out our menu here:",
-            "link": "SEE MENU",
+            "link": "VIEW MENU",
             "social": "Follow us on Instagram"
         },
         "homeMap": {
-            "link": "SEE ROUTE"
+            "link": "VIEW ROUTE"
         }
     },
     "menuView": {
         "menu": {
             "sectionOne": {
-                "title": "APPETIZERS",
+                "title": "STARTERS",
                 "plates": {
                     "plateOne": {
-                        "title": "Fried eggs with Iberian ham",
+                        "title": "Broken eggs with Iberian ham",
                         "description": "Description 1"
                     },
                     "plateTwo": {
-                        "title": "Bravas potatoes with alioli",
+                        "title": "Patatas bravas with alioli",
                         "description": "Description 2"
                     },
                     "plateThree": {
@@ -27,7 +27,7 @@
                         "description": "Description 3"
                     },
                     "plateFour": {
-                        "title": "Ham and cheese board",
+                        "title": "Ham and cheese platter",
                         "description": "Description 4"
                     },
                     "plateFive": {
@@ -43,15 +43,15 @@
                         "description": "Description 7"
                     },
                     "plateEight": {
-                        "title": "Garlic shrimp",
+                        "title": "Garlic prawns",
                         "description": "Description 8"
                     },
                     "plateNine": {
-                        "title": "Grilled king prawn (6 pcs)",
+                        "title": "Grilled prawns (6 pcs)",
                         "description": "Description 9"
                     },
                     "plateTen": {
-                        "title": "Supreme nachos with pico de gallo and jalapeños (Guacamole €1 extra, cheddar sauce €1 extra)",
+                        "title": "Supreme nachos with pico de gallo and jalapeños (Guacamole 1€ extra, cheddar sauce 1€ extra)",
                         "description": "Description 10"
                     },
                     "plateEleven": {
@@ -59,11 +59,11 @@
                         "description": "Description 11"
                     },
                     "plateTwelve": {
-                        "title": "Crispy eggplant strips with cane honey",
+                        "title": "Crispy eggplant slices with sugar cane honey",
                         "description": "Description 12"
                     },
                     "plateThirteen": {
-                        "title": "Imperial eggplant sticks over faux risotto and Teriyaki sauce",
+                        "title": "Imperial eggplant bundles on false risotto with Teriyaki sauce",
                         "description": "Description 13"
                     },
                     "plateFourteen": {
@@ -75,11 +75,11 @@
                         "description": "Description 15"
                     },
                     "plateSixteen": {
-                        "title": "Lime tempura prawns with citrus and soy sauce (Guacamole €1 extra)",
+                        "title": "Tempura prawns with lime, citrus, and soy sauce (Guacamole 1€ extra)",
                         "description": "Description 16"
                     },
                     "plateSeventeen": {
-                        "title": "Garden tomato carpaccio with arbequina, pesto, and coal salt",
+                        "title": "Farm tomato carpaccio with arbequina, pesto, and charcoal salt",
                         "description": "Description 17"
                     },
                     "plateEighteen": {
@@ -92,11 +92,11 @@
                 "title": "FIRST COURSES",
                 "plates": {
                     "plateOne": {
-                        "title": "House Caesar salad",
+                        "title": "House Caesar Salad",
                         "description": "Description 1"
                     },
                     "plateTwo": {
-                        "title": "SUNSET salad",
+                        "title": "SUNSET Salad",
                         "description": "Prawns, mozzarella pearls, kiwi, ham, cherry tomatoes, orange, red onion, and lettuce."
                     },
                     "plateThree": {
@@ -112,8 +112,8 @@
                         "description": "Description 5"
                     },
                     "plateSix": {
-                        "title": "Frutti di mare pasta",
-                        "description": "Shrimp, mussels, and clams"
+                        "title": "Seafood pasta",
+                        "description": "Prawns, mussels, and clams"
                     }
                 }
             },
@@ -121,27 +121,27 @@
                 "title": "MAIN COURSES",
                 "plates": {
                     "plateOne": {
-                        "title": "Pure beef steak tartare (180g)",
+                        "title": "Pure beef steak tartare (180gr)",
                         "description": "Description 1"
                     },
                     "plateTwo": {
-                        "title": "Beef tenderloin (200g)",
+                        "title": "Beef tenderloin (200gr)",
                         "description": "Description 2"
                     },
                     "plateThree": {
-                        "title": "Beef entrecote (200g)",
+                        "title": "Beef entrecote (200gr)",
                         "description": "Description 3"
                     },
                     "plateFour": {
-                        "title": "Pork escalopes with Cabrales sauce",
+                        "title": "Pork escalopes with Cabrales cheese sauce",
                         "description": "Description 4"
                     },
                     "plateFive": {
-                        "title": "Chicken milanese",
+                        "title": "Chicken Milanese",
                         "description": "Description 5"
                     },
                     "plateSix": {
-                        "title": "Half roasted chicken in its juice",
+                        "title": "1/2 roasted chicken in its juice",
                         "description": "Description 6"
                     },
                     "plateSeven": {
@@ -149,7 +149,7 @@
                         "description": "Description 7"
                     },
                     "plateEight": {
-                        "title": "Bluefin tuna tartare",
+                        "title": "Almadraba tuna tartare",
                         "description": "Description 8"
                     },
                     "plateNine": {
@@ -169,19 +169,19 @@
                         "description": "Description 12"
                     },
                     "plateThirteen": {
-                        "title": "Sea bass rolls stuffed with spinach and prawns over sweet potato compote",
+                        "title": "Sea bass rolls stuffed with spinach and prawns on sweet potato compote",
                         "description": "Description 13"
                     },
                     "plateFourteen": {
-                        "title": "Sea bass Megalodón with citrus emulsion",
+                        "title": "Megalodon sea bass with citrus emulsion",
                         "description": "Description 14"
                     },
                     "plateFifteen": {
-                        "title": "Grilled sea bass",
+                        "title": "Sea bass a la espalda",
                         "description": "Description 15"
                     },
                     "plateSixteen": {
-                        "title": "Hake in marinera sauce",
+                        "title": "Hake in marinara sauce",
                         "description": "Description 16"
                     },
                     "plateSeventeen": {
@@ -193,7 +193,7 @@
                         "description": "Description 18"
                     },
                     "plateNineteen": {
-                        "title": "Low temperature cod with caramelized onion",
+                        "title": "Low-temperature cod with caramelized onion",
                         "description": "Description 19"
                     },
                     "plateTwenty": {
@@ -263,7 +263,8 @@
                         "description": "Description 5"
                     }
                 }
-            }
+            },
+            "rices": "(Price per person, minimum 2)"
         }
     },
     "components": {

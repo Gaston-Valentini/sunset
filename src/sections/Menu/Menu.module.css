@@ -23,6 +23,12 @@
 }
 
 .headingText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headingTextTitle {
     font-family: var(--secondary);
     font-size: 30px;
 }

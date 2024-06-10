@@ -263,7 +263,8 @@
                         "description": "Descripción 5"
                     }
                 }
-            }
+            },
+            "rices": "(Precio por persona, mínimo 2)"
         }
     },
     "components": {
