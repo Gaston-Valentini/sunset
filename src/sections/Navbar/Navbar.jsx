@@ -13,6 +13,7 @@ export default function Navbar({ menuSection, setMenuSection }) {
 
     const handleChange = (value) => {
         setMenuSection(value);
+        window.scrollTo(0, 0);
     };
 
     return (
