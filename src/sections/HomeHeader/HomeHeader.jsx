@@ -4,6 +4,7 @@ import image1 from "../../assets/header/header-1.jpg";
 import image2 from "../../assets/header/header-2.jpg";
 import image3 from "../../assets/header/header-3.jpg";
 import image4 from "../../assets/header/header-4.jpg";
+import image5 from "../../assets/header/header-5.jpg";
 
 export default function HomeHeader() {
     return (
@@ -20,6 +21,9 @@ export default function HomeHeader() {
                 </div>
                 <div>
                     <img src={image4} />
+                </div>
+                <div>
+                    <img src={image5} />
                 </div>
             </Slider>
         </section>

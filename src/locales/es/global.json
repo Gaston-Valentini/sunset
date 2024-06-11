@@ -264,6 +264,115 @@
                     }
                 }
             },
+            "sectionSix": {
+                "title": "BEBIDAS",
+                "plates": {
+                    "plateOne": {
+                        "title": "Aperol spritz",
+                        "description": "Descripción 1"
+                    },
+                    "plateTwo": {
+                        "title": "Sex on the beach",
+                        "description": "Descripción 2"
+                    },
+                    "plateThree": {
+                        "title": "Coco loco",
+                        "description": "Descripción 3"
+                    },
+                    "plateFour": {
+                        "title": "Piña colada",
+                        "description": "Descripción 4"
+                    },
+                    "plateFive": {
+                        "title": "Gin fizz",
+                        "description": "Descripción 5"
+                    },
+                    "plateSix": {
+                        "title": "SUNSET",
+                        "description": "Agua embotellada sin gas"
+                    },
+                    "plateSeven": {
+                        "title": "Mojito",
+                        "description": "Refresco con gas sabor cola"
+                    },
+                    "plateEight": {
+                        "title": "Caipiriña",
+                        "description": "Jugo natural de naranja"
+                    },
+                    "plateNine": {
+                        "title": "Americano (Manhatan)",
+                        "description": "Cerveza artesanal"
+                    },
+                    "plateTen": {
+                        "title": "Cosmopolitan",
+                        "description": "Copa de vino tinto"
+                    },
+                    "plateEleven": {
+                        "title": "Negroni",
+                        "description": "Copa de vino blanco"
+                    },
+                    "plateTwelve": {
+                        "title": "Margarita",
+                        "description": "Café fuerte y aromático"
+                    },
+                    "plateThirteen": {
+                        "title": "Tequila sunrise",
+                        "description": "Café con leche caliente"
+                    },
+                    "plateFourteen": {
+                        "title": "Daiquiri (Sabores)",
+                        "description": "Té verde orgánico"
+                    },
+                    "plateFifteen": {
+                        "title": "Agua de Valencia",
+                        "description": "Té negro tradicional"
+                    },
+                    "plateSixteen": {
+                        "title": "Espresso martini",
+                        "description": "Limonada fresca y natural"
+                    },
+                    "plateSeventeen": {
+                        "title": "Mimosa",
+                        "description": "Batido de fresa con leche"
+                    },
+                    "plateEighteen": {
+                        "title": "Blue lagoon",
+                        "description": "Batido de plátano con leche"
+                    },
+                    "plateNineteen": {
+                        "title": "Pornstar martini",
+                        "description": "Batido de chocolate con leche"
+                    },
+                    "plateTwenty": {
+                        "title": "English garden",
+                        "description": "Agua mineral con gas"
+                    },
+                    "plateTwentyOne": {
+                        "title": "Kamikaze",
+                        "description": "Jugo natural de manzana"
+                    },
+                    "plateTwentyTwo": {
+                        "title": "Queen Mother",
+                        "description": "Refresco con gas sabor naranja"
+                    },
+                    "plateTwentyThree": {
+                        "title": "Tom collins",
+                        "description": "Cóctel de frutas sin alcohol"
+                    },
+                    "plateTwentyFour": {
+                        "title": "Zombie",
+                        "description": "Bebida espumosa de manzana"
+                    },
+                    "plateTwentyFive": {
+                        "title": "Old fashioned",
+                        "description": "Café ligero y suave"
+                    },
+                    "plateTwentySix": {
+                        "title": "Jon rollins",
+                        "description": "Infusión de hierbas relajante"
+                    }
+                }
+            },
             "rices": "(Precio por persona, mínimo 2)"
         }
     },

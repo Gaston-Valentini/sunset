@@ -22,3 +22,10 @@
     cursor: pointer;
     background-color: rgba(0, 0, 0, 0.2);
 }
+
+@media (min-width: 481px) and (max-width: 768px) {
+    .container {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

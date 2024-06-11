@@ -3,6 +3,7 @@ import firsts from "../assets/icons/firsts.png";
 import seconds from "../assets/icons/seconds.png";
 import rices from "../assets/icons/rices.png";
 import desserts from "../assets/icons/desserts.png";
+import drinks from "../assets/icons/drinks.png";
 
 const menu = [
     {
@@ -370,6 +371,168 @@ const menu = [
             },
         ],
         icon: desserts,
+    },
+    {
+        title: "menuView.menu.sectionSix.title",
+        plates: [
+            {
+                title: "menuView.menu.sectionSix.plates.plateOne.title",
+                description: "menuView.menu.sectionSix.plates.plateOne.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwo.title",
+                description: "menuView.menu.sectionSix.plates.plateTwo.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateThree.title",
+                description: "menuView.menu.sectionSix.plates.plateThree.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateFour.title",
+                description: "menuView.menu.sectionSix.plates.plateFour.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateFive.title",
+                description: "menuView.menu.sectionSix.plates.plateFive.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateSix.title",
+                description: "menuView.menu.sectionSix.plates.plateSix.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateSeven.title",
+                description: "menuView.menu.sectionSix.plates.plateSeven.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateEight.title",
+                description: "menuView.menu.sectionSix.plates.plateEight.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateNine.title",
+                description: "menuView.menu.sectionSix.plates.plateNine.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTen.title",
+                description: "menuView.menu.sectionSix.plates.plateTen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateEleven.title",
+                description: "menuView.menu.sectionSix.plates.plateEleven.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwelve.title",
+                description: "menuView.menu.sectionSix.plates.plateTwelve.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateThirteen.title",
+                description: "menuView.menu.sectionSix.plates.plateThirteen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateFourteen.title",
+                description: "menuView.menu.sectionSix.plates.plateFourteen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateFifteen.title",
+                description: "menuView.menu.sectionSix.plates.plateFifteen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateSixteen.title",
+                description: "menuView.menu.sectionSix.plates.plateSixteen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateSeventeen.title",
+                description: "menuView.menu.sectionSix.plates.plateSeventeen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateEighteen.title",
+                description: "menuView.menu.sectionSix.plates.plateEighteen.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateNineteen.title",
+                description: "menuView.menu.sectionSix.plates.plateNineteen.description",
+                price: "9,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwenty.title",
+                description: "menuView.menu.sectionSix.plates.plateTwenty.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentyOne.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentyOne.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentyTwo.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentyTwo.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentyThree.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentyThree.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentyFour.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentyFour.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentyFive.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentyFive.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionSix.plates.plateTwentySix.title",
+                description: "menuView.menu.sectionSix.plates.plateTwentySix.description",
+                price: "8,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+        ],
+        icon: drinks,
     },
 ];
 

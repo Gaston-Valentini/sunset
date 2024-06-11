@@ -26,9 +26,11 @@ export default function Plate({ plate }) {
                     <p className={style.dataInfoText}>{t(plate.description)}</p>
                 </div>
             </div>
-            <div className={style.more} onClick={onDetails}>
-                {details ? <FaMinus /> : <FaPlus />}
-            </div>
+            {/*
+    <div className={style.more} onClick={onDetails}>
+        {details ? <FaMinus /> : <FaPlus />}
+    </div>
+    */}
         </div>
     );
 }
