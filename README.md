@@ -77,7 +77,7 @@ Para correr este servicio de manera local deberá seguir los siguientes pasos:
 ## Variables de entorno
 
 -   VITE_GOOGLE_API_KEY (Clave API del servicio de Google Maps)
--   VITE_GOOGLE_MAP_ID="VITE_MAP_ID" (Id del mapa del servicio de Google Maps)
+-   VITE_GOOGLE_MAP_ID (Id del mapa del servicio de Google Maps)
 
 ## Estructura del proyecto
 
