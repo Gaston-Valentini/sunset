@@ -36,7 +36,7 @@ const menu = [
             {
                 title: "menuView.menu.sectionOne.plates.plateFive.title",
                 description: "menuView.menu.sectionOne.plates.plateFive.description",
-                price: "10,50€",
+                price: "9,50€",
                 image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
             },
             {
