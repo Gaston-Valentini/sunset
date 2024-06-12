@@ -126,6 +126,6 @@ Para preguntas o colaboraciones, puedes contactarme a través de mis redes:
 
 ## Agradecimientos
 
-Me gustaría agradecer a todo el equipo de sunset por hacer posible esta colaboración.
+Me gustaría agradecer a todo el equipo de SUNSET por haber hecho posible esta colaboración.
 
 [Volver al inicio](#sunset---carta-web)
