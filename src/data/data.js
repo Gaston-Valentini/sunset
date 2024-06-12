@@ -4,6 +4,7 @@ import seconds from "../assets/icons/seconds.png";
 import rices from "../assets/icons/rices.png";
 import desserts from "../assets/icons/desserts.png";
 import drinks from "../assets/icons/drinks.png";
+import kid from "../assets/icons/kid.png";
 
 const menu = [
     {
@@ -114,7 +115,7 @@ const menu = [
             {
                 title: "menuView.menu.sectionOne.plates.plateEighteen.title",
                 description: "menuView.menu.sectionOne.plates.plateEighteen.description",
-                price: "15,75€",
+                price: "6,50€",
                 image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
             },
         ],
@@ -285,6 +286,18 @@ const menu = [
                 price: "12,00€",
                 image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
             },
+            {
+                title: "menuView.menu.sectionThree.plates.twentyThree.title",
+                description: "menuView.menu.sectionThree.plates.twentyThree.description",
+                price: "15,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionThree.plates.twentyOne.title",
+                description: "menuView.menu.sectionThree.plates.twentyOne.description",
+                price: "13,50€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
         ],
         icon: seconds,
     },
@@ -333,6 +346,42 @@ const menu = [
                 price: "23,00€",
                 image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
             },
+            {
+                title: "menuView.menu.sectionFour.plates.plateEight.title",
+                description: "menuView.menu.sectionFour.plates.plateEight.description",
+                price: "14,95€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFour.plates.plateNine.title",
+                description: "menuView.menu.sectionFour.plates.plateNine.description",
+                price: "14,95€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFour.plates.plateTen.title",
+                description: "menuView.menu.sectionFour.plates.plateTen.description",
+                price: "19,75€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFour.plates.plateEleven.title",
+                description: "menuView.menu.sectionFour.plates.plateEleven.description",
+                price: "19,95€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFour.plates.plateTwelve.title",
+                description: "menuView.menu.sectionFour.plates.plateTwelve.description",
+                price: "17,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFour.plates.plateThirteen.title",
+                description: "menuView.menu.sectionFour.plates.plateThirteen.description",
+                price: "17,00€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
         ],
         icon: rices,
     },
@@ -367,6 +416,12 @@ const menu = [
                 title: "menuView.menu.sectionFive.plates.plateFive.title",
                 description: "menuView.menu.sectionFive.plates.plateFive.description",
                 price: "4,50€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+            {
+                title: "menuView.menu.sectionFive.plates.plateSix.title",
+                description: "menuView.menu.sectionFive.plates.plateSix.description",
+                price: "6,00€",
                 image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
             },
         ],
@@ -533,6 +588,18 @@ const menu = [
             },
         ],
         icon: drinks,
+    },
+    {
+        title: "menuView.menu.sectionSeven.title",
+        plates: [
+            {
+                title: "menuView.menu.sectionSeven.plates.plateOne.title",
+                description: "menuView.menu.sectionSeven.plates.plateOne.description",
+                price: "7,50€",
+                image: "https://framerusercontent.com/images/9kkGOeR8XfJ0bkSq5vagmboso.webp",
+            },
+        ],
+        icon: kid,
     },
 ];
 

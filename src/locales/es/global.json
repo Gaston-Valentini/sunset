@@ -83,7 +83,7 @@
                         "description": "Descripción 17"
                     },
                     "plateEighteen": {
-                        "title": "Carpaccio de atún con dados de mango, aguacate, tomate y cebolla",
+                        "title": "Ensaladilla rusa de la casa",
                         "description": "Descripción 18"
                     }
                 }
@@ -203,6 +203,14 @@
                     "plateTwentyOne": {
                         "title": "Fish and chips",
                         "description": "Descripción 21"
+                    },
+                    "plateTwentyTwo": {
+                        "title": "Cheese burguer (doble de queso, lechuga, tomate y cebolla caramelizada)",
+                        "description": "Descripción 21"
+                    },
+                    "plateTwentyThree": {
+                        "title": "Hamburguesa SUNSET (180gr) (lechuga, tomate, cebolla caramelizada, pepinillo, bacon, huevo y queso)",
+                        "description": "Descripción 21"
                     }
                 }
             },
@@ -236,6 +244,30 @@
                     "plateSeven": {
                         "title": "Arroz meloso de bogavante (por encargo)",
                         "description": "Descripción 7"
+                    },
+                    "plateEight": {
+                        "title": "Arroz de secreto ibérico con setas",
+                        "description": "Descripción 7"
+                    },
+                    "plateNine": {
+                        "title": "Arroz con puntilla y ajete al Pedro Giménez",
+                        "description": "Descripción 7"
+                    },
+                    "plateTen": {
+                        "title": "Arroz con pulpo rape y almejas",
+                        "description": "Descripción 7"
+                    },
+                    "plateEleven": {
+                        "title": "Arroz con salburiña, sepia y rape",
+                        "description": "Descripción 7"
+                    },
+                    "plateTwelve": {
+                        "title": "Paella de carne y verduras",
+                        "description": "Descripción 7"
+                    },
+                    "plateThirteen": {
+                        "title": "Arroz a banda",
+                        "description": "Descripción 7"
                     }
                 }
             },
@@ -260,6 +292,10 @@
                     },
                     "plateFive": {
                         "title": "Fruta de temporada",
+                        "description": "Descripción 5"
+                    },
+                    "plateSix": {
+                        "title": "Tarta de queso de la casa",
                         "description": "Descripción 5"
                     }
                 }
@@ -374,6 +410,15 @@
                 }
             },
             "rices": "(Precio por persona, mínimo 2)"
+        }
+    },
+    "sectionFour": {
+        "title": "INFANTIL",
+        "plates": {
+            "plateOne": {
+                "title": "Menú infantil a elegir (Nuggets / fingers de pollo / varitas de merluza con patatas, bebida y postre)",
+                "description": "Descripción 1"
+            }
         }
     },
     "components": {
