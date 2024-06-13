@@ -1,1 +1,963 @@
-{}
+{
+    "homeView": {
+        "homeData": {
+            "soon": "Our website will be available very soon! In the meantime, we invite you to check our menu here:",
+            "link": "VIEW MENU",
+            "social": "Follow us on Instagram"
+        },
+        "homeMap": {
+            "link": "VIEW ROUTE"
+        }
+    },
+    "menuView": {
+        "menu": {
+            "title": "Menu",
+            "sectionOne": {
+                "title": "FOOD",
+                "subsections": {
+                    "subsectionOne": {
+                        "title": "STARTERS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Fried Eggs with Iberian Ham",
+                                "description": "Description 1"
+                            },
+                            "plateTwo": {
+                                "title": "Bravas Potatoes with Aioli",
+                                "description": "Description 2"
+                            },
+                            "plateThree": {
+                                "title": "Chicken Wings",
+                                "description": "Description 3"
+                            },
+                            "plateFour": {
+                                "title": "Ham and Cheese Platter",
+                                "description": "Description 4"
+                            },
+                            "plateFive": {
+                                "title": "Iberian Ham Croquettes",
+                                "description": "Description 5"
+                            },
+                            "plateSix": {
+                                "title": "Fried Baby Squid",
+                                "description": "Description 6"
+                            },
+                            "plateSeven": {
+                                "title": "Fried Bay Calamari",
+                                "description": "Description 7"
+                            },
+                            "plateEight": {
+                                "title": "Garlic Shrimp",
+                                "description": "Description 8"
+                            },
+                            "plateNine": {
+                                "title": "Grilled Prawns (6 pcs)",
+                                "description": "Description 9"
+                            },
+                            "plateTen": {
+                                "title": "Supreme Nachos with Pico de Gallo and Jalapeños (Guacamole €1 extra, Cheddar Sauce €1 extra)",
+                                "description": "Description 10"
+                            },
+                            "plateEleven": {
+                                "title": "Mexican Tacos with Shredded Meat (2 pcs)",
+                                "description": "Description 11"
+                            },
+                            "plateTwelve": {
+                                "title": "Crispy Eggplant with Cane Honey",
+                                "description": "Description 12"
+                            },
+                            "plateThirteen": {
+                                "title": "Imperial Eggplant Pockets with Faux Risotto and Teriyaki Sauce",
+                                "description": "Description 13"
+                            },
+                            "plateFourteen": {
+                                "title": "Vegetable Tempura (Pumpkin, Carrot, Eggplant, Zucchini, Red Pepper, and Green Pepper)",
+                                "description": "Description 14"
+                            },
+                            "plateFifteen": {
+                                "title": "Baby Squid with Ink Emulsion and Aioli",
+                                "description": "Description 15"
+                            },
+                            "plateSixteen": {
+                                "title": "Lime Tempura Shrimp with Citrus and Soy Sauce (Guacamole €1 extra)",
+                                "description": "Description 16"
+                            },
+                            "plateSeventeen": {
+                                "title": "Garden Tomato Carpaccio with Arbequina, Pesto, and Charcoal Salt",
+                                "description": "Description 17"
+                            },
+                            "plateEighteen": {
+                                "title": "House Russian Salad",
+                                "description": "Description 18"
+                            }
+                        }
+                    },
+                    "subsectionTwo": {
+                        "title": "FIRST COURSES",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "House Caesar Salad",
+                                "description": "Description 1"
+                            },
+                            "plateTwo": {
+                                "title": "SUNSET Salad",
+                                "description": "Shrimp, Mozzarella Pearls, Kiwi, Ham, Cherry Tomatoes, Orange, Red Onion, and Lettuce."
+                            },
+                            "plateThree": {
+                                "title": "Mixed Salad",
+                                "description": "Description 3"
+                            },
+                            "plateFour": {
+                                "title": "Carbonara Pasta",
+                                "description": "Description 4"
+                            },
+                            "plateFive": {
+                                "title": "Bolognese Pasta",
+                                "description": "Description 5"
+                            },
+                            "plateSix": {
+                                "title": "Frutti di Mare Pasta",
+                                "description": "Shrimp, Mussels, and Clams"
+                            }
+                        }
+                    },
+                    "subsectionThree": {
+                        "title": "MAIN COURSES",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Pure Beef Steak Tartare (180gr)",
+                                "description": "Description 1"
+                            },
+                            "plateTwo": {
+                                "title": "Beef Tenderloin (200gr)",
+                                "description": "Description 2"
+                            },
+                            "plateThree": {
+                                "title": "Beef Ribeye (300gr)",
+                                "description": "Description 3"
+                            },
+                            "plateFour": {
+                                "title": "Pork Escalopes with Cabrales Sauce",
+                                "description": "Description 4"
+                            },
+                            "plateFive": {
+                                "title": "Chicken Milanese",
+                                "description": "Description 5"
+                            },
+                            "plateSix": {
+                                "title": "Half Roasted Chicken in Its Juice",
+                                "description": "Description 6"
+                            },
+                            "plateSeven": {
+                                "title": "Grilled Scallops",
+                                "description": "Description 7"
+                            },
+                            "plateEight": {
+                                "title": "Bluefin Tuna Tartare",
+                                "description": "Description 8"
+                            },
+                            "plateNine": {
+                                "title": "Salmon Tartare with Mango or Guacamole",
+                                "description": "Description 9"
+                            },
+                            "plateTen": {
+                                "title": "Salmon en Papillote",
+                                "description": "Description 10"
+                            },
+                            "plateEleven": {
+                                "title": "Tuna Tataki with Tropical Fusion",
+                                "description": "Description 11"
+                            },
+                            "plateTwelve": {
+                                "title": "Grilled Octopus Smoked with Rosemary",
+                                "description": "Description 12"
+                            },
+                            "plateThirteen": {
+                                "title": "Seabass Rolls Stuffed with Spinach and Shrimp on Sweet Potato Compote",
+                                "description": "Description 13"
+                            },
+                            "plateFourteen": {
+                                "title": "Seabass Megalodon with Citrus Emulsion",
+                                "description": "Description 14"
+                            },
+                            "plateFifteen": {
+                                "title": "Seabass à la Espalda",
+                                "description": "Description 15"
+                            },
+                            "plateSixteen": {
+                                "title": "Hake in Seafood Sauce",
+                                "description": "Description 16"
+                            },
+                            "plateSeventeen": {
+                                "title": "Hake in Fennel Sauce",
+                                "description": "Description 17"
+                            },
+                            "plateEighteen": {
+                                "title": "Battered Hake",
+                                "description": "Description 18"
+                            },
+                            "plateNineteen": {
+                                "title": "Low-Temperature Cod with Caramelized Onion",
+                                "description": "Description 19"
+                            },
+                            "plateTwenty": {
+                                "title": "Baked Cod with Ratatouille",
+                                "description": "Description 20"
+                            },
+                            "plateTwentyOne": {
+                                "title": "Fish and Chips",
+                                "description": "Description 21"
+                            },
+                            "plateTwentyTwo": {
+                                "title": "Cheeseburger (Double Cheese, Lettuce, Tomato, and Caramelized Onion)",
+                                "description": "Description 22"
+                            },
+                            "plateTwentyThree": {
+                                "title": "SUNSET Burger (180gr) (Lettuce, Tomato, Caramelized Onion, Pickle, Bacon, Egg, and Cheese)",
+                                "description": "Description 23"
+                            }
+                        }
+                    },
+                    "subsectionFour": {
+                        "title": "RICE DISHES",
+                        "subtitle": "Price per person, minimum 2",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Seafood Paella",
+                                "description": "Description 1"
+                            },
+                            "plateTwo": {
+                                "title": "Vegetable Paella",
+                                "description": "Description 2"
+                            },
+                            "plateThree": {
+                                "title": "Mixed Paella",
+                                "description": "Description 3"
+                            },
+                            "plateFour": {
+                                "title": "Señoret Rice",
+                                "description": "Description 4"
+                            },
+                            "plateFive": {
+                                "title": "Black Rice",
+                                "description": "Description 5"
+                            },
+                            "plateSix": {
+                                "title": "Fideuá",
+                                "description": "Description 6"
+                            },
+                            "plateSeven": {
+                                "title": "Creamy Lobster Rice (by order)",
+                                "description": "Description 7"
+                            },
+                            "plateEight": {
+                                "title": "Iberian Secret Rice with Mushrooms",
+                                "description": "Description 8"
+                            },
+                            "plateNine": {
+                                "title": "Rice with Baby Squid and Green Garlic in Pedro Giménez Sauce",
+                                "description": "Description 9"
+                            },
+                            "plateTen": {
+                                "title": "Rice with Octopus, Monkfish, and Clams",
+                                "description": "Description 10"
+                            },
+                            "plateEleven": {
+                                "title": "Rice with Scallops, Cuttlefish, and Monkfish",
+                                "description": "Description 11"
+                            },
+                            "plateTwelve": {
+                                "title": "Garlic Lobster Rice",
+                                "description": "Description 12"
+                            },
+                            "plateThirteen": {
+                                "title": "Banda Rice",
+                                "description": "Description 7"
+                            }
+                        }
+                    },
+                    "subsectionFive": {
+                        "title": "DESSERTS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Chocolate Coulant with Vanilla Ice Cream",
+                                "description": "Description 1"
+                            },
+                            "plateTwo": {
+                                "title": "SUNSET Brownie",
+                                "description": "Description 2"
+                            },
+                            "plateThree": {
+                                "title": "Passion Fruit Mousse",
+                                "description": "Description 3"
+                            },
+                            "plateFour": {
+                                "title": "Apple Tarte Tatin",
+                                "description": "Description 4"
+                            },
+                            "plateFive": {
+                                "title": "Strawberry Cheese Cake",
+                                "description": "Description 5"
+                            },
+                            "plateSix": {
+                                "title": "House Cheesecake",
+                                "description": "Description 5"
+                            }
+                        }
+                    }
+                }
+            },
+            "sectionTwo": {
+                "title": "DRINKS",
+                "subsections": {
+                    "subsectionOne": {
+                        "title": "BEER",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Mahou Tostada",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Free Damm",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Guinness",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "John Smith",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Carling",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Volldam",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Caña",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Pinta",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Radler",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "1/2 Mahou",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "1/2 Mahou 5 Estrellas",
+                                "description": ""
+                            },
+                            "plateTwelve": {
+                                "title": "1/2 Estrella Galicia",
+                                "description": ""
+                            },
+                            "plateThirteen": {
+                                "title": "1/2 Estrella Galicia Gluten-Free",
+                                "description": ""
+                            },
+                            "plateFourteen": {
+                                "title": "1/2 Estrella Damm",
+                                "description": ""
+                            },
+                            "plateFifteen": {
+                                "title": "Heineken",
+                                "description": ""
+                            },
+                            "plateSixteen": {
+                                "title": "1/2 Corona",
+                                "description": ""
+                            },
+                            "plateSeventeen": {
+                                "title": "Desperados",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionTwo": {
+                        "title": "GIN",
+                        "subtitle": "Mixers + €2",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Beefeater",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Larios",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Gordons",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Tanqueray",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Seagrams",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Puerto de Indias Strawberry",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Gordons Rosé",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Bombay Sapphire",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Larios 12",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Martin Millers",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "G-Vine",
+                                "description": ""
+                            },
+                            "plateTwelve": {
+                                "title": "Nordés",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionThree": {
+                        "title": "RUM",
+                        "subtitle": "Mixers + €2",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Bacardí",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Havana 3",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Havana 7",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Brugal",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Barceló",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Cacique",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Captain Morgan Spiced",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Legendario",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Matusalem",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Santa Teresa",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionFour": {
+                        "title": "WHISKEY",
+                        "subtitle": "Mixers + €2",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Ballantines",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "White Label",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "J&B",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Cutty Shark",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Red Label",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Black Label",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Jack Daniels",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Southern Comfort",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Bells",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Chivas",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "Jameson",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionFive": {
+                        "title": "VODKA",
+                        "subtitle": "Mixers + €2",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Smirnoff",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Absolut",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Eristoff",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Ciroc",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Grey Goose",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Belvedere",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionSix": {
+                        "title": "COCKTAILS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "SUNSET",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Mojito",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Strawberry Mojito",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Hugo",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Cosmopolitan",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Daiquiri",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Pina Colada",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Manhattan",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Caipirinha",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Caipiroska",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "Caipirissima",
+                                "description": ""
+                            },
+                            "plateTwelve": {
+                                "title": "Tequila Sunrise",
+                                "description": ""
+                            },
+                            "plateThirteen": {
+                                "title": "Blue Lagoon",
+                                "description": ""
+                            },
+                            "plateFourteen": {
+                                "title": "Sex on the Beach",
+                                "description": ""
+                            },
+                            "plateFifteen": {
+                                "title": "Mai Tai",
+                                "description": ""
+                            },
+                            "plateSixteen": {
+                                "title": "Mai Tai Light",
+                                "description": ""
+                            },
+                            "plateSeventeen": {
+                                "title": "Mimosa",
+                                "description": ""
+                            },
+                            "plateEighteen": {
+                                "title": "Bellini",
+                                "description": ""
+                            },
+                            "plateNineteen": {
+                                "title": "Whiskey Sour",
+                                "description": ""
+                            },
+                            "plateTwenty": {
+                                "title": "Amaretto Sour",
+                                "description": ""
+                            },
+                            "plateTwentyOne": {
+                                "title": "Gin Tonic",
+                                "description": ""
+                            },
+                            "plateTwentyTwo": {
+                                "title": "Gin Tonic of the House",
+                                "description": ""
+                            },
+                            "plateTwentyThree": {
+                                "title": "Tom Collins",
+                                "description": ""
+                            },
+                            "plateTwentyFour": {
+                                "title": "Mojito Frozen",
+                                "description": ""
+                            },
+                            "plateTwentyFive": {
+                                "title": "Caipirinha Frozen",
+                                "description": ""
+                            },
+                            "plateTwentySix": {
+                                "title": "Daiquiri Frozen",
+                                "description": ""
+                            },
+                            "plateTwentySeven": {
+                                "title": "Pina Colada Frozen",
+                                "description": ""
+                            },
+                            "plateTwentyEight": {
+                                "title": "SUNSET Frozen",
+                                "description": ""
+                            },
+                            "plateTwentyNine": {
+                                "title": "Strawberry Daiquiri Frozen",
+                                "description": ""
+                            },
+                            "plateThirty": {
+                                "title": "Tequila Sunrise Frozen",
+                                "description": ""
+                            },
+                            "plateThirtyOne": {
+                                "title": "Blue Lagoon Frozen",
+                                "description": ""
+                            },
+                            "plateThirtyTwo": {
+                                "title": "Sex on the Beach Frozen",
+                                "description": ""
+                            },
+                            "plateThirtyThree": {
+                                "title": "Mai Tai Frozen",
+                                "description": ""
+                            },
+                            "plateThirtyFour": {
+                                "title": "Margarita Frozen",
+                                "description": ""
+                            },
+                            "plateThirtyFive": {
+                                "title": "Piña Colada with Aperol Frozen",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionSeven": {
+                        "title": "LIQUORS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Jägermeister",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Fireball",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Baileys",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Tia Maria",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Pacharán",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "Cerol",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Herb Brandy",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "White Brandy",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Cream Brandy",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Mistela",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "Sambuca",
+                                "description": ""
+                            },
+                            "plateTwelve": {
+                                "title": "Jäggerboom",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionEight": {
+                        "title": "APPETIZERS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Martini",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Campari",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Ricard",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Marie Brizard",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Punch",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionNine": {
+                        "title": "BRANDY",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Magno",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Soberano",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Torres",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Duke of Alba",
+                                "description": ""
+                            }
+                        }
+                    },
+                    "subsectionTen": {
+                        "title": "COCKTAILS",
+                        "subtitle": "",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Aperol Spritz",
+                                "description": ""
+                            },
+                            "plateTwo": {
+                                "title": "Sex on the Beach",
+                                "description": ""
+                            },
+                            "plateThree": {
+                                "title": "Coco Loco",
+                                "description": ""
+                            },
+                            "plateFour": {
+                                "title": "Pina Colada",
+                                "description": ""
+                            },
+                            "plateFive": {
+                                "title": "Gin Fizz",
+                                "description": ""
+                            },
+                            "plateSix": {
+                                "title": "SUNSET",
+                                "description": ""
+                            },
+                            "plateSeven": {
+                                "title": "Mojito",
+                                "description": ""
+                            },
+                            "plateEight": {
+                                "title": "Caipirinha",
+                                "description": ""
+                            },
+                            "plateNine": {
+                                "title": "Americano (Manhattan)",
+                                "description": ""
+                            },
+                            "plateTen": {
+                                "title": "Cosmopolitan",
+                                "description": ""
+                            },
+                            "plateEleven": {
+                                "title": "Negroni",
+                                "description": ""
+                            },
+                            "plateTwelve": {
+                                "title": "Margarita",
+                                "description": ""
+                            },
+                            "plateThirteen": {
+                                "title": "Tequila Sunrise",
+                                "description": ""
+                            },
+                            "plateFourteen": {
+                                "title": "Daiquiri (Flavors)",
+                                "description": ""
+                            },
+                            "plateFifteen": {
+                                "title": "Valencian Water",
+                                "description": ""
+                            },
+                            "plateSixteen": {
+                                "title": "Espresso Martini",
+                                "description": ""
+                            },
+                            "plateSeventeen": {
+                                "title": "Mimosa",
+                                "description": ""
+                            },
+                            "plateEighteen": {
+                                "title": "Blue Lagoon",
+                                "description": ""
+                            },
+                            "plateNineteen": {
+                                "title": "Pornstar Martini",
+                                "description": ""
+                            },
+                            "plateTwenty": {
+                                "title": "English Garden",
+                                "description": ""
+                            },
+                            "plateTwentyOne": {
+                                "title": "Kamikaze",
+                                "description": ""
+                            },
+                            "plateTwentyTwo": {
+                                "title": "Queen Mother",
+                                "description": ""
+                            },
+                            "plateTwentyThree": {
+                                "title": "Tom Collins",
+                                "description": ""
+                            },
+                            "plateTwentyFour": {
+                                "title": "Zombie",
+                                "description": ""
+                            },
+                            "plateTwentyFive": {
+                                "title": "Old Fashioned",
+                                "description": ""
+                            },
+                            "plateTwentySix": {
+                                "title": "John Rollins",
+                                "description": ""
+                            }
+                        }
+                    }
+                }
+            },
+            "sectionThree": {
+                "title": "CHILDREN'S MENU",
+                "subsections": {
+                    "subsectionOne": {
+                        "title": "KID'S MENU",
+                        "subtitle": "Includes fries, drink, and dessert",
+                        "plates": {
+                            "plateOne": {
+                                "title": "Nuggets",
+                                "description": "Description"
+                            },
+                            "plateTwo": {
+                                "title": "Chicken Fingers",
+                                "description": "Description"
+                            },
+                            "plateThree": {
+                                "title": "Hake Sticks",
+                                "description": "Description"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "languageSelector": {
+            "language": "Idioma",
+            "languageEs": "Español",
+            "languageEn": "English"
+        }
+    }
+}
