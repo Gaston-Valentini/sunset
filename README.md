@@ -17,7 +17,7 @@
 -   [Contacto](#contacto)
 -   [Agradecimientos](#agradecimientos)
 
-## Descripción del Proyecto y Objetivo
+## Descripción del proyecto y objetivo
 
 Este proyecto consiste en el desarrollo de la carta web de [SUNSET](https://www.sunsetlacala.es/), un restaurante ubicado en la Cala de Finestrat,
 Alicante, España. Se trata de un trabajo freelance cuyo objetivo es proporcionar a los clientes una versión digital del menú del restaurante, en
