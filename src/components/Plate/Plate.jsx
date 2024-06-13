@@ -1,7 +1,6 @@
 import style from "./Plate.module.css";
 import { useTranslation } from "react-i18next";
 import { FaMinus, FaPlus } from "react-icons/fa6";
-
 import { useState } from "react";
 
 export default function Plate({ plate }) {
@@ -26,11 +25,9 @@ export default function Plate({ plate }) {
                     <p className={style.dataInfoText}>{t(plate.description)}</p>
                 </div>
             </div>
-            {/*
-    <div className={style.more} onClick={onDetails}>
-        {details ? <FaMinus /> : <FaPlus />}
-    </div>
-    */}
+            <div className={style.more} onClick={onDetails}>
+                {details ? <FaMinus /> : <FaPlus />}
+            </div>
         </div>
     );
 }

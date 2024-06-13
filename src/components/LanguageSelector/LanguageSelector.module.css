@@ -8,18 +8,19 @@
 .flag {
     height: calc(100% - 2px);
     border: 1px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .flag img {
     height: 100%;
+    border-radius: 10px;
 }
 
 .selector {
     height: 100%;
     font-weight: 500;
     border: 1px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     outline: none;
     transition: 0.3s;
 }

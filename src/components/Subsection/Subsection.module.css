@@ -1,0 +1,59 @@
+.container {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    background-color: var(--grey);
+    box-shadow: 0 0 10px var(--grey);
+    border-radius: 10px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.headingText {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.headingText p {
+    font-family: var(--secondary);
+    font-size: 30px;
+}
+
+.headingText span {
+    text-align: center;
+}
+
+.headingIcon img {
+    height: 40px;
+    width: 40px;
+}
+
+.plates {
+    max-height: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.platesOpen {
+    max-height: 3000px;
+}
+
+.more {
+    font-size: 25px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.moreOpen {
+    transform: rotate(180deg);
+}

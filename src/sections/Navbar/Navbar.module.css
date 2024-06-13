@@ -1,11 +1,13 @@
 .container {
+    width: calc(100% - 20px);
+    max-width: calc(1200px - 20px);
     padding: 10px;
     display: flex;
     justify-content: center;
     gap: 5px;
     flex-wrap: wrap;
     background-color: var(--grey);
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 0 0 10px var(--grey);
 }
 
@@ -14,18 +16,11 @@
     display: flex;
     justify-content: center;
     flex-grow: 1;
-    border-radius: 5px;
+    border-radius: 10px;
     transition: 0.3s;
 }
 
 .button:hover {
     cursor: pointer;
     background-color: rgba(0, 0, 0, 0.2);
-}
-
-@media (min-width: 481px) and (max-width: 768px) {
-    .container {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
 }
