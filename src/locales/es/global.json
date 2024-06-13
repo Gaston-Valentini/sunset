@@ -23,7 +23,7 @@
                                 "description": "Descripción 1"
                             },
                             "plateTwo": {
-                                "title": "Patatas bravas con ali oli",
+                                "title": "Patatas bravas con alioli",
                                 "description": "Descripción 2"
                             },
                             "plateThree": {
@@ -35,7 +35,7 @@
                                 "description": "Descripción 4"
                             },
                             "plateFive": {
-                                "title": "Croquetas de jamón ibérico",
+                                "title": "Croquetas de jamón ibérico (6 uds)",
                                 "description": "Descripción 5"
                             },
                             "plateSix": {
@@ -55,7 +55,7 @@
                                 "description": "Descripción 9"
                             },
                             "plateTen": {
-                                "title": "Nachos supremos con pico de gallo y jalapeños (Guacamole 1€ adicional, salsa chedar 1€ adicional)",
+                                "title": "Nachos supremos con pico de gallo y jalapeños (guacamole 1€ adicional, salsa chedar 1€ adicional)",
                                 "description": "Descripción 10"
                             },
                             "plateEleven": {
@@ -71,15 +71,15 @@
                                 "description": "Descripción 13"
                             },
                             "plateFourteen": {
-                                "title": "tempura de verduras (Calabaza, zanahoria, berenjena, calabacín pimiento rojo y pimiento verde)",
+                                "title": "Tempura de verduras (calabaza, zanahoria, berenjena, calabacín, pimiento rojo y pimiento verde)",
                                 "description": "Descripción 14"
                             },
                             "plateFifteen": {
-                                "title": "Chipirones con emulsión de tinta y ali oli",
+                                "title": "Chipirones con emulsión de tinta y alioli",
                                 "description": "Descripción 15"
                             },
                             "plateSixteen": {
-                                "title": "Langostinos en tempura a la lima, cítricos y salsa de soja (Guacamole 1€ adicional)",
+                                "title": "Langostinos en tempura a la lima, cítricos y salsa de soja (guacamole 1€ adicional)",
                                 "description": "Descripción 16"
                             },
                             "plateSeventeen": {
@@ -87,6 +87,10 @@
                                 "description": "Descripción 17"
                             },
                             "plateEighteen": {
+                                "title": "Carpaccio de tomate del huerto con arbequina, pesto y sal carbón",
+                                "description": "Descripción 17"
+                            },
+                            "plateNineteen": {
                                 "title": "Ensaladilla rusa de la casa",
                                 "description": "Descripción 18"
                             }
@@ -101,8 +105,8 @@
                                 "description": "Descripción 1"
                             },
                             "plateTwo": {
-                                "title": "Ensalada SUNSET",
-                                "description": "Langostinos, perla de mozarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga."
+                                "title": "Ensalada SUNSET (langostinos, perlas de mozzarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga)",
+                                "description": "Langostinos, perla de mozzarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga."
                             },
                             "plateThree": {
                                 "title": "Ensalada mixta",
@@ -117,7 +121,7 @@
                                 "description": "Descripción 5"
                             },
                             "plateSix": {
-                                "title": "Pasta Frutti di mare",
+                                "title": "Pasta Frutti di mare (gambas, mejillones y almejas)",
                                 "description": "Gambas, mejillones y almejas"
                             }
                         }
@@ -217,6 +221,10 @@
                             "plateTwentyThree": {
                                 "title": "Hamburguesa SUNSET (180gr) (lechuga, tomate, cebolla caramelizada, pepinillo, bacon, huevo y queso)",
                                 "description": "Descripción 23"
+                            },
+                            "plateTwentyFour": {
+                                "title": "Costilla de cerdo a la barbacoa",
+                                "description": "Descripción 24"
                             }
                         }
                     },
@@ -257,7 +265,7 @@
                                 "description": "Descripción 7"
                             },
                             "plateNine": {
-                                "title": "Arroz con puntilla y ajete al Pedro Giménez",
+                                "title": "Arroz con puntilla y ajete al Pedro Ximénez",
                                 "description": "Descripción 7"
                             },
                             "plateTen": {
@@ -265,7 +273,7 @@
                                 "description": "Descripción 7"
                             },
                             "plateEleven": {
-                                "title": "Arroz con salburiña, sepia y rape",
+                                "title": "Arroz con zamburiña, sepia y rape",
                                 "description": "Descripción 7"
                             },
                             "plateTwelve": {
@@ -318,7 +326,7 @@
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Mahou tostada",
+                                "title": "Mahou Tostada",
                                 "description": ""
                             },
                             "plateTwo": {
@@ -370,7 +378,7 @@
                                 "description": ""
                             },
                             "plateFourteen": {
-                                "title": "1/2 Estrella damm",
+                                "title": "1/2 Estrella Damm",
                                 "description": ""
                             },
                             "plateFifteen": {
@@ -400,7 +408,7 @@
                                 "description": ""
                             },
                             "plateThree": {
-                                "title": "Gordons",
+                                "title": "Gordon's",
                                 "description": ""
                             },
                             "plateFour": {
@@ -408,19 +416,19 @@
                                 "description": ""
                             },
                             "plateFive": {
-                                "title": "Seagrams",
+                                "title": "Seagram's",
                                 "description": ""
                             },
                             "plateSix": {
-                                "title": "Puerto de indias fresa",
+                                "title": "Puerto de Indias Strawberry",
                                 "description": ""
                             },
                             "plateSeven": {
-                                "title": "Gordons rosé",
+                                "title": "Gordon's Rosé",
                                 "description": ""
                             },
                             "plateEight": {
-                                "title": "Bombay Saphire",
+                                "title": "Bombay Sapphire",
                                 "description": ""
                             },
                             "plateNine": {
@@ -428,7 +436,7 @@
                                 "description": ""
                             },
                             "plateTen": {
-                                "title": "Martin Millers",
+                                "title": "Martin Miller's",
                                 "description": ""
                             },
                             "plateEleven": {
@@ -470,7 +478,7 @@
                                 "description": ""
                             },
                             "plateSeven": {
-                                "title": "Capitan Morgan spiced",
+                                "title": "Capitan Morgan Spiced",
                                 "description": ""
                             },
                             "plateEight": {
@@ -496,7 +504,7 @@
                                 "description": ""
                             },
                             "plateTwo": {
-                                "title": "White label",
+                                "title": "White Label",
                                 "description": ""
                             },
                             "plateThree": {
@@ -504,23 +512,23 @@
                                 "description": ""
                             },
                             "plateFour": {
-                                "title": "Cutty shark",
+                                "title": "Cutty Shark",
                                 "description": ""
                             },
                             "plateFive": {
-                                "title": "Red label",
+                                "title": "Red Label",
                                 "description": ""
                             },
                             "plateSix": {
-                                "title": "Black label",
+                                "title": "Black Label",
                                 "description": ""
                             },
                             "plateSeven": {
-                                "title": "Jack daniels",
+                                "title": "Jack Daniels",
                                 "description": ""
                             },
                             "plateEight": {
-                                "title": "Southern comfort",
+                                "title": "Southern Comfort",
                                 "description": ""
                             },
                             "plateNine": {
@@ -744,7 +752,7 @@
                                 "description": ""
                             },
                             "plateSixteen": {
-                                "title": "Espreso Martini",
+                                "title": "Espreso martini",
                                 "description": ""
                             },
                             "plateSeventeen": {
@@ -756,11 +764,11 @@
                                 "description": ""
                             },
                             "plateNineteen": {
-                                "title": "Pornstar Martini",
+                                "title": "Pornstar martini",
                                 "description": ""
                             },
                             "plateTwenty": {
-                                "title": "English Garden",
+                                "title": "English garden",
                                 "description": ""
                             },
                             "plateTwentyOne": {

@@ -16,79 +16,83 @@
                 "title": "FOOD",
                 "subsections": {
                     "subsectionOne": {
-                        "title": "STARTERS",
+                        "title": "APPETIZERS",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Fried Eggs with Iberian Ham",
+                                "title": "Fried eggs with Iberian ham",
                                 "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Bravas Potatoes with Aioli",
+                                "title": "Bravas potatoes with aioli",
                                 "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Chicken Wings",
+                                "title": "Chicken wings",
                                 "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Ham and Cheese Platter",
+                                "title": "Ham and cheese platter",
                                 "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Iberian Ham Croquettes",
+                                "title": "Iberian ham croquettes (6 units)",
                                 "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Fried Baby Squid",
+                                "title": "Fried baby squid",
                                 "description": "Description 6"
                             },
                             "plateSeven": {
-                                "title": "Fried Bay Calamari",
+                                "title": "Fried bay calamari",
                                 "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Garlic Shrimp",
+                                "title": "Garlic prawns",
                                 "description": "Description 8"
                             },
                             "plateNine": {
-                                "title": "Grilled Prawns (6 pcs)",
+                                "title": "Grilled prawns (6 units)",
                                 "description": "Description 9"
                             },
                             "plateTen": {
-                                "title": "Supreme Nachos with Pico de Gallo and Jalapeños (Guacamole €1 extra, Cheddar Sauce €1 extra)",
+                                "title": "Supreme nachos with pico de gallo and jalapeños (additional guacamole €1, additional cheddar sauce €1)",
                                 "description": "Description 10"
                             },
                             "plateEleven": {
-                                "title": "Mexican Tacos with Shredded Meat (2 pcs)",
+                                "title": "Mexican tacos with shredded beef (2 units)",
                                 "description": "Description 11"
                             },
                             "plateTwelve": {
-                                "title": "Crispy Eggplant with Cane Honey",
+                                "title": "Crispy eggplant tiraditos accompanied by cane honey",
                                 "description": "Description 12"
                             },
                             "plateThirteen": {
-                                "title": "Imperial Eggplant Pockets with Faux Risotto and Teriyaki Sauce",
+                                "title": "Imperial eggplant sachets over fake risotto and Teriyaki sauce",
                                 "description": "Description 13"
                             },
                             "plateFourteen": {
-                                "title": "Vegetable Tempura (Pumpkin, Carrot, Eggplant, Zucchini, Red Pepper, and Green Pepper)",
+                                "title": "Vegetable tempura (pumpkin, carrot, eggplant, zucchini, red pepper, and green pepper)",
                                 "description": "Description 14"
                             },
                             "plateFifteen": {
-                                "title": "Baby Squid with Ink Emulsion and Aioli",
+                                "title": "Squid with ink emulsion and aioli",
                                 "description": "Description 15"
                             },
                             "plateSixteen": {
-                                "title": "Lime Tempura Shrimp with Citrus and Soy Sauce (Guacamole €1 extra)",
+                                "title": "Lime shrimp tempura, citrus, and soy sauce (additional guacamole €1)",
                                 "description": "Description 16"
                             },
                             "plateSeventeen": {
-                                "title": "Garden Tomato Carpaccio with Arbequina, Pesto, and Charcoal Salt",
+                                "title": "Garden tomato carpaccio with arbequina, pesto, and charcoal salt",
                                 "description": "Description 17"
                             },
                             "plateEighteen": {
-                                "title": "House Russian Salad",
+                                "title": "Garden tomato carpaccio with arbequina, pesto, and charcoal salt",
+                                "description": "Description 17"
+                            },
+                            "plateNineteen": {
+                                "title": "House Russian salad",
                                 "description": "Description 18"
                             }
                         }
@@ -102,8 +106,8 @@
                                 "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "SUNSET Salad",
-                                "description": "Shrimp, Mozzarella Pearls, Kiwi, Ham, Cherry Tomatoes, Orange, Red Onion, and Lettuce."
+                                "title": "SUNSET Salad (prawns, mozzarella pearls, kiwi, ham, cherry tomatoes, orange, red onion, and lettuce)",
+                                "description": "Prawns, mozzarella pearls, kiwi, ham, cherry tomatoes, orange, red onion, and lettuce."
                             },
                             "plateThree": {
                                 "title": "Mixed Salad",
@@ -118,8 +122,8 @@
                                 "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Frutti di Mare Pasta",
-                                "description": "Shrimp, Mussels, and Clams"
+                                "title": "Frutti di Mare Pasta (prawns, mussels, and clams)",
+                                "description": "Prawns, mussels, and clams"
                             }
                         }
                     },
@@ -136,11 +140,11 @@
                                 "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Beef Ribeye (300gr)",
+                                "title": "Beef Sirloin Steak (300gr)",
                                 "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Pork Escalopes with Cabrales Sauce",
+                                "title": "Pork Scaloppini with Cabrales Sauce",
                                 "description": "Description 4"
                             },
                             "plateFive": {
@@ -148,7 +152,7 @@
                                 "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Half Roasted Chicken in Its Juice",
+                                "title": "1/2 Roasted Chicken in its Juices",
                                 "description": "Description 6"
                             },
                             "plateSeven": {
@@ -156,7 +160,7 @@
                                 "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Bluefin Tuna Tartare",
+                                "title": "Almadraba Tuna Tartare",
                                 "description": "Description 8"
                             },
                             "plateNine": {
@@ -172,19 +176,19 @@
                                 "description": "Description 11"
                             },
                             "plateTwelve": {
-                                "title": "Grilled Octopus Smoked with Rosemary",
+                                "title": "Smoked Grilled Octopus with Rosemary",
                                 "description": "Description 12"
                             },
                             "plateThirteen": {
-                                "title": "Seabass Rolls Stuffed with Spinach and Shrimp on Sweet Potato Compote",
+                                "title": "Rolled Sea Bass Stuffed with Spinach and Prawns over Sweet Potato Compote",
                                 "description": "Description 13"
                             },
                             "plateFourteen": {
-                                "title": "Seabass Megalodon with Citrus Emulsion",
+                                "title": "Megalodon Sea Bass with Citrus Emulsion",
                                 "description": "Description 14"
                             },
                             "plateFifteen": {
-                                "title": "Seabass à la Espalda",
+                                "title": "Grilled Sea Bass",
                                 "description": "Description 15"
                             },
                             "plateSixteen": {
@@ -196,7 +200,7 @@
                                 "description": "Description 17"
                             },
                             "plateEighteen": {
-                                "title": "Battered Hake",
+                                "title": "Roman-Style Hake",
                                 "description": "Description 18"
                             },
                             "plateNineteen": {
@@ -204,7 +208,7 @@
                                 "description": "Description 19"
                             },
                             "plateTwenty": {
-                                "title": "Baked Cod with Ratatouille",
+                                "title": "Oven-Baked Cod with Ratatouille",
                                 "description": "Description 20"
                             },
                             "plateTwentyOne": {
@@ -212,12 +216,16 @@
                                 "description": "Description 21"
                             },
                             "plateTwentyTwo": {
-                                "title": "Cheeseburger (Double Cheese, Lettuce, Tomato, and Caramelized Onion)",
+                                "title": "Cheese Burger (double cheese, lettuce, tomato, and caramelized onion)",
                                 "description": "Description 22"
                             },
                             "plateTwentyThree": {
-                                "title": "SUNSET Burger (180gr) (Lettuce, Tomato, Caramelized Onion, Pickle, Bacon, Egg, and Cheese)",
+                                "title": "SUNSET Burger (180gr) (lettuce, tomato, caramelized onion, gherkin, bacon, egg, and cheese)",
                                 "description": "Description 23"
+                            },
+                            "plateTwentyFour": {
+                                "title": "Barbecue Pork Ribs",
+                                "description": "Description 24"
                             }
                         }
                     },
@@ -246,61 +254,61 @@
                                 "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Fideuá",
+                                "title": "Fideuà",
                                 "description": "Description 6"
                             },
                             "plateSeven": {
-                                "title": "Creamy Lobster Rice (by order)",
+                                "title": "Creamy Lobster Rice (by reservation)",
                                 "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Iberian Secret Rice with Mushrooms",
-                                "description": "Description 8"
+                                "title": "Iberian Secret Pork Rice with Mushrooms",
+                                "description": "Description 7"
                             },
                             "plateNine": {
-                                "title": "Rice with Baby Squid and Green Garlic in Pedro Giménez Sauce",
-                                "description": "Description 9"
+                                "title": "Rice with Baby Squid and Garlic Shoots in Pedro Ximénez Wine",
+                                "description": "Description 7"
                             },
                             "plateTen": {
                                 "title": "Rice with Octopus, Monkfish, and Clams",
-                                "description": "Description 10"
+                                "description": "Description 7"
                             },
                             "plateEleven": {
-                                "title": "Rice with Scallops, Cuttlefish, and Monkfish",
-                                "description": "Description 11"
+                                "title": "Rice with Scallop, Cuttlefish, and Monkfish",
+                                "description": "Description 7"
                             },
                             "plateTwelve": {
-                                "title": "Garlic Lobster Rice",
-                                "description": "Description 12"
+                                "title": "Meat and Vegetable Paella",
+                                "description": "Description 7"
                             },
                             "plateThirteen": {
-                                "title": "Banda Rice",
+                                "title": "Fisherman's Rice",
                                 "description": "Description 7"
                             }
                         }
                     },
                     "subsectionFive": {
-                        "title": "DESSERTS",
+                        "title": "Desserts",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Chocolate Coulant with Vanilla Ice Cream",
+                                "title": "Carrot Cake",
                                 "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "SUNSET Brownie",
+                                "title": "SUNSET Ice Cream Cup",
                                 "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Passion Fruit Mousse",
+                                "title": "Chocolate Cake",
                                 "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Apple Tarte Tatin",
+                                "title": "Apple Pie",
                                 "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Strawberry Cheese Cake",
+                                "title": "Seasonal Fruit",
                                 "description": "Description 5"
                             },
                             "plateSix": {
