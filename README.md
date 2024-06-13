@@ -90,7 +90,7 @@ benilaser-client/
 │   ├── data/ (Contiene los archivos de información y datos)
 │   ├── locales/ (Contiene los archivos de traducciones)
 │   ├── sections/ (Contiene las secciones de la web)
-│   ├── views/ (Contiene las 5 diferentes vistas de la web, donde se mostraran las secciones)
+│   ├── views/ (Contiene las diferentes vistas de la web, donde se mostraran las secciones)
 │   ├── App.jsx (Contiene toda la aplicación que se renderizará en el root de index.html)
 │   ├── App.module.css (Contiene los estilos generales del componente App)
 │   ├── index.css (Contiene las configuraciones generales de estilo y variables globales)
