@@ -30,6 +30,10 @@ del local.
     <img src="./public/readme-1.png" width="49%" />
     <img src="./public/readme-2.png" width="49%" />
 </p>
+<p align="center">
+    <img src="./public/readme-3.png" width="49%" />
+    <img src="./public/readme-4.png" width="49%" />
+</p>
 
 ## Características
 
