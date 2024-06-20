@@ -15,8 +15,7 @@ import brandy from "../assets/icons/brandy.png";
 import cocktails from "../assets/icons/cocktails.png";
 import kid from "../assets/icons/kid.png";
 
-const photo =
-    "https://berriesandspice.com/wp-content/uploads/2018/08/Berries-and-Spice-How-to-plate-dishes-worthy-of-a-fine-dining-restaurant-the-complete-guide-23-scaled.jpg";
+const photo = "https://berriesandspice.com/wp-content/uploads/2018/08/Berries-and-Spice-How-to-plate-dishes-worthy-of-a-fine-dining-restaurant-the-complete-guide-23-scaled.jpg";
 
 const menu = [
     {
@@ -54,7 +53,7 @@ const menu = [
                         title: "menuView.menu.sectionOne.subsections.subsectionOne.plates.plateFive.title",
                         description: "menuView.menu.sectionOne.subsections.subsectionOne.plates.plateFive.description",
                         image: photo,
-                        price: "10,50€",
+                        price: "11,50€",
                     },
                     {
                         title: "menuView.menu.sectionOne.subsections.subsectionOne.plates.plateSix.title",
@@ -478,7 +477,7 @@ const menu = [
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateOne.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateOne.description",
                         image: photo,
-                        price: "2,50€",
+                        price: "2,80€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateTwo.title",
@@ -490,13 +489,13 @@ const menu = [
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateThree.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateThree.description",
                         image: photo,
-                        price: "3,50€",
+                        price: "4,00€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateFour.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateFour.description",
                         image: photo,
-                        price: "3,50€",
+                        price: "4,00€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateFive.title",
@@ -514,13 +513,13 @@ const menu = [
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSeven.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSeven.description",
                         image: photo,
-                        price: "2,00€",
+                        price: "2,20€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateEight.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateEight.description",
                         image: photo,
-                        price: "3,00€",
+                        price: "3,20€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateNine.title",
@@ -538,7 +537,7 @@ const menu = [
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateEleven.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateEleven.description",
                         image: photo,
-                        price: "2,50€",
+                        price: "2,80€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateTwelve.title",
@@ -568,13 +567,13 @@ const menu = [
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSixteen.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSixteen.description",
                         image: photo,
-                        price: "3,00€",
+                        price: "4,00€",
                     },
                     {
                         title: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSeventeen.title",
                         description: "menuView.menu.sectionTwo.subsections.subsectionOne.plates.plateSeventeen.description",
                         image: photo,
-                        price: "3,00€",
+                        price: "4,00€",
                     },
                 ],
                 icon: beers,
