@@ -1,328 +1,328 @@
 {
     "homeView": {
         "homeData": {
-            "soon": "¡Nuestro sitio web estará disponible muy pronto! Mientras tanto, te invitamos a consultar nuestro menú aquí:",
-            "link": "VER CARTA",
-            "social": "Síguenos en Instagram"
+            "soon": "Notre site web sera disponible très bientôt ! En attendant, nous vous invitons à consulter notre menu ici :",
+            "link": "VOIR LA CARTE",
+            "social": "Suivez-nous sur Instagram"
         },
         "homeMap": {
-            "link": "VER RUTA"
+            "link": "VOIR ITINÉRAIRE"
         }
     },
     "menuView": {
         "menu": {
             "sectionOne": {
-                "title": "COMIDA",
+                "title": "NOURRITURE",
                 "subsections": {
                     "subsectionOne": {
-                        "title": "ENTRANTES",
+                        "title": "ENTRÉES",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Huevos estrellados con jamón ibérico",
-                                "description": "Descripción 1"
+                                "title": "Œufs au plat avec jambon ibérique",
+                                "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Patatas bravas con alioli",
-                                "description": "Descripción 2"
+                                "title": "Pommes de terre bravas avec aïoli",
+                                "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Alitas de pollo",
-                                "description": "Descripción 3"
+                                "title": "Ailes de poulet",
+                                "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Tabla de jamón y queso",
-                                "description": "Descripción 4"
+                                "title": "Plateau de jambon et fromage",
+                                "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Croquetas de jamón ibérico (6 uds)",
-                                "description": "Descripción 5"
+                                "title": "Croquettes de jambon ibérique (6 pcs)",
+                                "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Chopitos fritos",
-                                "description": "Descripción 6"
+                                "title": "Petits calmars frits",
+                                "description": "Description 6"
                             },
                             "plateSeven": {
-                                "title": "Calamares de la bahía fritos",
-                                "description": "Descripción 7"
+                                "title": "Calamars de la baie frits",
+                                "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Gambas al ajillo",
-                                "description": "Descripción 8"
+                                "title": "Crevettes à l'ail",
+                                "description": "Description 8"
                             },
                             "plateNine": {
-                                "title": "Gambón a la plancha (6 uds)",
-                                "description": "Descripción 9"
+                                "title": "Gambas grillées (6 pcs)",
+                                "description": "Description 9"
                             },
                             "plateTen": {
-                                "title": "Nachos supremos con pico de gallo y jalapeños (guacamole 1€ adicional, salsa chedar 1€ adicional)",
-                                "description": "Descripción 10"
+                                "title": "Nachos suprêmes avec pico de gallo et jalapeños (guacamole 1€ supplémentaire, sauce cheddar 1€ supplémentaire)",
+                                "description": "Description 10"
                             },
                             "plateEleven": {
-                                "title": "Tacos mexicanos con carne mechada (2 uds)",
-                                "description": "Descripción 11"
+                                "title": "Tacos mexicains avec viande effilochée (2 pcs)",
+                                "description": "Description 11"
                             },
                             "plateTwelve": {
-                                "title": "Tiraditos crujientes de berenjena acompañado de miel de caña",
-                                "description": "Descripción 12"
+                                "title": "Tiraditos croustillants d'aubergine accompagnés de miel de canne",
+                                "description": "Description 12"
                             },
                             "plateThirteen": {
-                                "title": "Saquitos imperiales de berenjena sobre falso risotto y salsa Teriyaki",
-                                "description": "Descripción 13"
+                                "title": "Petits paquets impériaux d'aubergine sur faux risotto et sauce Teriyaki",
+                                "description": "Description 13"
                             },
                             "plateFourteen": {
-                                "title": "Tempura de verduras (calabaza, zanahoria, berenjena, calabacín, pimiento rojo y pimiento verde)",
-                                "description": "Descripción 14"
+                                "title": "Tempura de légumes (citrouille, carotte, aubergine, courgette, poivron rouge et poivron vert)",
+                                "description": "Description 14"
                             },
                             "plateFifteen": {
-                                "title": "Chipirones con emulsión de tinta y alioli",
-                                "description": "Descripción 15"
+                                "title": "Petits calamars avec émulsion d'encre et aïoli",
+                                "description": "Description 15"
                             },
                             "plateSixteen": {
-                                "title": "Langostinos en tempura a la lima, cítricos y salsa de soja (guacamole 1€ adicional)",
-                                "description": "Descripción 16"
+                                "title": "Crevettes en tempura au citron vert, agrumes et sauce soja (guacamole 1€ supplémentaire)",
+                                "description": "Description 16"
                             },
                             "plateSeventeen": {
-                                "title": "Carpaccio de tomate del huerto con arbequina, pesto y sal carbón",
-                                "description": "Descripción 17"
+                                "title": "Carpaccio de tomate du jardin avec arbequina, pesto et sel de charbon",
+                                "description": "Description 17"
                             },
                             "plateEighteen": {
-                                "title": "Carpaccio de atún con dados de mango",
-                                "description": "Descripción 17"
+                                "title": "Carpaccio de thon avec dés de mangue",
+                                "description": "Description 17"
                             },
                             "plateNineteen": {
-                                "title": "Ensaladilla rusa de la casa",
-                                "description": "Descripción 18"
+                                "title": "Salade russe maison",
+                                "description": "Description 18"
                             }
                         }
                     },
                     "subsectionTwo": {
-                        "title": "PRIMEROS",
+                        "title": "PLATS PRINCIPAUX",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Ensalada Cesar de la casa",
-                                "description": "Descripción 1"
+                                "title": "Salade César maison",
+                                "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Ensalada SUNSET (langostinos, perlas de mozzarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga)",
-                                "description": "Langostinos, perla de mozzarella, kiwi, jamón, tomate cherry, naranja, cebolla morada y lechuga."
+                                "title": "Salade SUNSET (crevettes, perles de mozzarella, kiwi, jambon, tomate cerise, orange, oignon rouge et laitue)",
+                                "description": "Crevettes, perles de mozzarella, kiwi, jambon, tomate cerise, orange, oignon rouge et laitue."
                             },
                             "plateThree": {
-                                "title": "Ensalada mixta",
-                                "description": "Descripción 3"
+                                "title": "Salade mixte",
+                                "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Pasta carbonara",
-                                "description": "Descripción 4"
+                                "title": "Pâtes carbonara",
+                                "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Pasta boloñesa",
-                                "description": "Descripción 5"
+                                "title": "Pâtes bolognaise",
+                                "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Pasta Frutti di mare (gambas, mejillones y almejas)",
-                                "description": "Gambas, mejillones y almejas"
+                                "title": "Pâtes aux fruits de mer (crevettes, moules et palourdes)",
+                                "description": "Crevettes, moules et palourdes"
                             }
                         }
                     },
                     "subsectionThree": {
-                        "title": "SEGUNDOS",
+                        "title": "PLATS PRINCIPAUX",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Steak Tartare de vaca en estado puro (180gr)",
-                                "description": "Descripción 1"
+                                "title": "Steak tartare de bœuf pur (180g)",
+                                "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Solomillo de ternera (200gr)",
-                                "description": "Descripción 2"
+                                "title": "Filet de bœuf (200g)",
+                                "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Entrecot de ternera (300gr)",
-                                "description": "Descripción 3"
+                                "title": "Entrecôte de bœuf (300g)",
+                                "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Escalopines de cerdo con salsa de cabrales",
-                                "description": "Descripción 4"
+                                "title": "Escalopines de porc à la sauce cabrales",
+                                "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Milanesa de pollo",
-                                "description": "Descripción 5"
+                                "title": "Milanesa de poulet",
+                                "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "1/2 pollo asado en su jugo",
-                                "description": "Descripción 6"
+                                "title": "1/2 poulet rôti dans son jus",
+                                "description": "Description 6"
                             },
                             "plateSeven": {
-                                "title": "Zamburiñas a la brasa",
-                                "description": "Descripción 7"
+                                "title": "Coquilles Saint-Jacques grillées",
+                                "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Tartar de atún de almadraba",
-                                "description": "Descripción 8"
+                                "title": "Tartare de thon rouge",
+                                "description": "Description 8"
                             },
                             "plateNine": {
-                                "title": "Tartar de salmón con mango o guacamole",
-                                "description": "Descripción 9"
+                                "title": "Tartare de saumon avec mangue ou guacamole",
+                                "description": "Description 9"
                             },
                             "plateTen": {
-                                "title": "Salmón al papillote",
-                                "description": "Descripción 10"
+                                "title": "Saumon en papillote",
+                                "description": "Description 10"
                             },
                             "plateEleven": {
-                                "title": "Tataki de atún con fusión tropical",
-                                "description": "Descripción 11"
+                                "title": "Tataki de thon à la fusion tropicale",
+                                "description": "Description 11"
                             },
                             "plateTwelve": {
-                                "title": "Pulpo a la brasa ahumado al romero",
-                                "description": "Descripción 12"
+                                "title": "Poulpe grillé fumé au romarin",
+                                "description": "Description 12"
                             },
                             "plateThirteen": {
-                                "title": "Rollos de lubina rellenos de espinacas y langostinos sobre compota de boniato",
-                                "description": "Descripción 13"
+                                "title": "Roulades de bar farcies aux épinards et crevettes sur compote de patate douce",
+                                "description": "Description 13"
                             },
                             "plateFourteen": {
-                                "title": "Lubina al Megalodón con emulsión de  cítricos",
-                                "description": "Descripción 14"
+                                "title": "Bar Megalodon avec émulsion d'agrumes",
+                                "description": "Description 14"
                             },
                             "plateFifteen": {
-                                "title": "Lubina a la espalda",
-                                "description": "Descripción 15"
+                                "title": "Bar à la plancha",
+                                "description": "Description 15"
                             },
                             "plateSixteen": {
-                                "title": "Merluza en salsa marinera",
-                                "description": "Descripción 16"
+                                "title": "Merlu à la sauce marinara",
+                                "description": "Description 16"
                             },
                             "plateSeventeen": {
-                                "title": "Merluza en salsa de hinojo",
-                                "description": "Descripción 17"
+                                "title": "Merlu à la sauce au fenouil",
+                                "description": "Description 17"
                             },
                             "plateEighteen": {
-                                "title": "Merluza a la romana",
-                                "description": "Descripción 18"
+                                "title": "Merlu à la romaine",
+                                "description": "Description 18"
                             },
                             "plateNineteen": {
-                                "title": "Bacalao a baja temperatura con cebolla caramelizada",
-                                "description": "Descripción 19"
+                                "title": "Cabillaud à basse température avec oignons caramélisés",
+                                "description": "Description 19"
                             },
                             "plateTwenty": {
-                                "title": "Bacalao al horno con pisto",
-                                "description": "Descripción 20"
+                                "title": "Cabillaud au four avec ratatouille",
+                                "description": "Description 20"
                             },
                             "plateTwentyOne": {
                                 "title": "Fish and chips",
-                                "description": "Descripción 21"
+                                "description": "Description 21"
                             },
                             "plateTwentyTwo": {
-                                "title": "Cheese burguer (doble de queso, lechuga, tomate y cebolla caramelizada)",
-                                "description": "Descripción 22"
+                                "title": "Cheeseburger (double fromage, laitue, tomate et oignons caramélisés)",
+                                "description": "Description 22"
                             },
                             "plateTwentyThree": {
-                                "title": "Hamburguesa SUNSET (180gr) (lechuga, tomate, cebolla caramelizada, pepinillo, bacon, huevo y queso)",
-                                "description": "Descripción 23"
+                                "title": "Hamburger SUNSET (180g) (laitue, tomate, oignons caramélisés, cornichon, bacon, œuf et fromage)",
+                                "description": "Description 23"
                             },
                             "plateTwentyFour": {
-                                "title": "Costilla de cerdo a la barbacoa",
-                                "description": "Descripción 24"
+                                "title": "Côtes de porc barbecue",
+                                "description": "Description 24"
                             }
                         }
                     },
                     "subsectionFour": {
-                        "title": "ARROCES",
-                        "subtitle": "Precio por persona, mínimo 2",
+                        "title": "RIZ",
+                        "subtitle": "Prix par personne, minimum 2",
                         "plates": {
                             "plateOne": {
-                                "title": "Paella de marisco",
-                                "description": "Descripción 1"
+                                "title": "Paella de fruits de mer",
+                                "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Paella de verduras",
-                                "description": "Descripción 2"
+                                "title": "Paella de légumes",
+                                "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Paella mixta",
-                                "description": "Descripción 3"
+                                "title": "Paella mixte",
+                                "description": "Description 3"
                             },
                             "plateFour": {
                                 "title": "Arroz señoret",
-                                "description": "Descripción 4"
+                                "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Arroz negro",
-                                "description": "Descripción 5"
+                                "title": "Riz noir",
+                                "description": "Description 5"
                             },
                             "plateSix": {
                                 "title": "Fideuá",
-                                "description": "Descripción 6"
+                                "description": "Description 6"
                             },
                             "plateSeven": {
-                                "title": "Arroz meloso de bogavante (por encargo)",
-                                "description": "Descripción 7"
+                                "title": "Riz crémeux au homard (sur commande)",
+                                "description": "Description 7"
                             },
                             "plateEight": {
-                                "title": "Arroz de secreto ibérico con setas",
-                                "description": "Descripción 7"
+                                "title": "Riz au porc ibérique et champignons",
+                                "description": "Description 7"
                             },
                             "plateNine": {
-                                "title": "Arroz con puntilla y ajete al Pedro Ximénez",
-                                "description": "Descripción 7"
+                                "title": "Riz avec encornets et ail tendre au Pedro Ximénez",
+                                "description": "Description 7"
                             },
                             "plateTen": {
-                                "title": "Arroz con pulpo rape y almejas",
-                                "description": "Descripción 7"
+                                "title": "Riz au poulpe, lotte et palourdes",
+                                "description": "Description 7"
                             },
                             "plateEleven": {
-                                "title": "Arroz con zamburiña, sepia y rape",
-                                "description": "Descripción 7"
+                                "title": "Riz avec coquilles Saint-Jacques, seiche et lotte",
+                                "description": "Description 7"
                             },
                             "plateTwelve": {
-                                "title": "Paella de carne y verduras",
-                                "description": "Descripción 7"
+                                "title": "Paella de viande et légumes",
+                                "description": "Description 7"
                             },
                             "plateThirteen": {
                                 "title": "Arroz a banda",
-                                "description": "Descripción 7"
+                                "description": "Description 7"
                             }
                         }
                     },
                     "subsectionFive": {
-                        "title": "POSTRES",
+                        "title": "DESSERTS",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
-                                "title": "Tarta de zanahoria",
-                                "description": "Descripción 1"
+                                "title": "Gâteau aux carottes",
+                                "description": "Description 1"
                             },
                             "plateTwo": {
-                                "title": "Copa de helado SUNSET",
-                                "description": "Descripción 2"
+                                "title": "Coupe de glace SUNSET",
+                                "description": "Description 2"
                             },
                             "plateThree": {
-                                "title": "Tarta de chocolate",
-                                "description": "Descripción 3"
+                                "title": "Gâteau au chocolat",
+                                "description": "Description 3"
                             },
                             "plateFour": {
-                                "title": "Tarta de manzana",
-                                "description": "Descripción 4"
+                                "title": "Tarte aux pommes",
+                                "description": "Description 4"
                             },
                             "plateFive": {
-                                "title": "Fruta de temporada",
-                                "description": "Descripción 5"
+                                "title": "Fruits de saison",
+                                "description": "Description 5"
                             },
                             "plateSix": {
-                                "title": "Tarta de queso de la casa",
-                                "description": "Descripción 5"
+                                "title": "Gâteau au fromage maison",
+                                "description": "Description 5"
                             }
                         }
                     }
                 }
             },
             "sectionTwo": {
-                "title": "BEBIDA",
+                "title": "BOISSON",
                 "subsections": {
                     "subsectionOne": {
-                        "title": "CERVEZA",
+                        "title": "BIÈRE",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -334,7 +334,7 @@
                                 "description": ""
                             },
                             "plateThree": {
-                                "title": "Guinnes",
+                                "title": "Guinness",
                                 "description": ""
                             },
                             "plateFour": {
@@ -346,7 +346,7 @@
                                 "description": ""
                             },
                             "plateSix": {
-                                "title": "Volldam",
+                                "title": "Volldamm",
                                 "description": ""
                             },
                             "plateSeven": {
@@ -354,7 +354,7 @@
                                 "description": ""
                             },
                             "plateEight": {
-                                "title": "Pinta",
+                                "title": "Pinte",
                                 "description": ""
                             },
                             "plateNine": {
@@ -366,7 +366,7 @@
                                 "description": ""
                             },
                             "plateEleven": {
-                                "title": "1/2 Mahou 5 estrellas",
+                                "title": "1/2 Mahou 5 étoiles",
                                 "description": ""
                             },
                             "plateTwelve": {
@@ -374,7 +374,7 @@
                                 "description": ""
                             },
                             "plateThirteen": {
-                                "title": "1/2 Estrella Galicia sin gluten",
+                                "title": "1/2 Estrella Galicia sans gluten",
                                 "description": ""
                             },
                             "plateFourteen": {
@@ -396,8 +396,8 @@
                         }
                     },
                     "subsectionTwo": {
-                        "title": "GINEBRA",
-                        "subtitle": "Combinados + 2€",
+                        "title": "GIN",
+                        "subtitle": "Combinés + 2€",
                         "plates": {
                             "plateOne": {
                                 "title": "Beefeater",
@@ -450,8 +450,8 @@
                         }
                     },
                     "subsectionThree": {
-                        "title": "RON",
-                        "subtitle": "Combinados + 2€",
+                        "title": "RHUM",
+                        "subtitle": "Combinés + 2€",
                         "plates": {
                             "plateOne": {
                                 "title": "Bacardí",
@@ -486,7 +486,7 @@
                                 "description": ""
                             },
                             "plateNine": {
-                                "title": "Matusalen",
+                                "title": "Matusalem",
                                 "description": ""
                             },
                             "plateTen": {
@@ -497,7 +497,7 @@
                     },
                     "subsectionFour": {
                         "title": "WHISKY",
-                        "subtitle": "Combinados + 2€",
+                        "subtitle": "Combinés + 2€",
                         "plates": {
                             "plateOne": {
                                 "title": "Ballantines",
@@ -546,7 +546,7 @@
                         }
                     },
                     "subsectionFive": {
-                        "title": "SIDRAS",
+                        "title": "CIDRES",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -569,7 +569,7 @@
                     },
                     "subsectionSix": {
                         "title": "VODKA",
-                        "subtitle": "Combinados + 2€",
+                        "subtitle": "Combinés + 2€",
                         "plates": {
                             "plateOne": {
                                 "title": "Smirnoff",
@@ -586,7 +586,7 @@
                         }
                     },
                     "subsectionSeven": {
-                        "title": "LICORES",
+                        "title": "LIQUEURS",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -598,11 +598,11 @@
                                 "description": ""
                             },
                             "plateThree": {
-                                "title": "Bayleis",
+                                "title": "Baileys",
                                 "description": ""
                             },
                             "plateFour": {
-                                "title": "Tía María",
+                                "title": "Tia Maria",
                                 "description": ""
                             },
                             "plateFive": {
@@ -614,15 +614,15 @@
                                 "description": ""
                             },
                             "plateSeven": {
-                                "title": "Orujo de hierbas",
+                                "title": "Orujo de Hierbas",
                                 "description": ""
                             },
                             "plateEight": {
-                                "title": "Orujo blanco",
+                                "title": "Orujo Blanco",
                                 "description": ""
                             },
                             "plateNine": {
-                                "title": "Crema de orujo",
+                                "title": "Crème d'Orujo",
                                 "description": ""
                             },
                             "plateTen": {
@@ -640,7 +640,7 @@
                         }
                     },
                     "subsectionEight": {
-                        "title": "APERITIVOS",
+                        "title": "APÉRITIFS",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -660,13 +660,13 @@
                                 "description": ""
                             },
                             "plateFive": {
-                                "title": "Ponche",
+                                "title": "Punch",
                                 "description": ""
                             }
                         }
                     },
                     "subsectionNine": {
-                        "title": "BRANDY",
+                        "title": "COGNAC",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -688,7 +688,7 @@
                         }
                     },
                     "subsectionTen": {
-                        "title": "CÓCTELES",
+                        "title": "COCKTAILS",
                         "subtitle": "",
                         "plates": {
                             "plateOne": {
@@ -744,7 +744,7 @@
                                 "description": ""
                             },
                             "plateFourteen": {
-                                "title": "Daiquiri (sabores)",
+                                "title": "Daiquiri (saveurs)",
                                 "description": ""
                             },
                             "plateFifteen": {
@@ -752,7 +752,7 @@
                                 "description": ""
                             },
                             "plateSixteen": {
-                                "title": "Espreso martini",
+                                "title": "Espresso martini",
                                 "description": ""
                             },
                             "plateSeventeen": {
@@ -800,22 +800,22 @@
                 }
             },
             "sectionThree": {
-                "title": "INFANTIL",
+                "title": "ENFANTIN",
                 "subsections": {
                     "subsectionOne": {
-                        "title": "MENÚ DE NIÑOS",
-                        "subtitle": "Incluye patatas, bebida y postre",
+                        "title": "MENU ENFANTS",
+                        "subtitle": "Comprend des frites, une boisson et un dessert",
                         "plates": {
                             "plateOne": {
                                 "title": "Nuggets",
                                 "description": "Description"
                             },
                             "plateTwo": {
-                                "title": "Fingers de pollo",
+                                "title": "Fingers de poulet",
                                 "description": "Description"
                             },
                             "plateThree": {
-                                "title": "Varitas de merluza",
+                                "title": "Bâtonnets de merlu",
                                 "description": "Description"
                             }
                         }
@@ -826,7 +826,7 @@
     },
     "components": {
         "languageSelector": {
-            "language": "Language",
+            "language": "Langue",
             "languageEs": "Español",
             "languageEn": "English",
             "languageFr": "Français"

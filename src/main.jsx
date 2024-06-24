@@ -7,6 +7,7 @@ import { I18nextProvider } from "react-i18next";
 import i18next from "i18next";
 import esLocale from "./locales/es/global.json";
 import enLocale from "./locales/en/global.json";
+import frLocale from "./locales/fr/global.json";
 
 i18next.init({
     interpolation: { escapeValue: false },
@@ -17,6 +18,9 @@ i18next.init({
         },
         en: {
             global: enLocale,
+        },
+        fr: {
+            global: frLocale,
         },
     },
 });

@@ -965,7 +965,8 @@
         "languageSelector": {
             "language": "Idioma",
             "languageEs": "Español",
-            "languageEn": "English"
+            "languageEn": "English",
+            "languageFr": "Français"
         }
     }
 }
